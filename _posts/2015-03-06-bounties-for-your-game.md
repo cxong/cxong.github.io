@@ -29,7 +29,7 @@ And then, radio silence.
 
 Open source development is a lonely endeavour. The freedom that authors grant to users contributes to this, since people can use, hack, extend, even fork without bothering the authors. Most work is done by unpaid volunteers, who pick up and drop projects on a whim. Did meZee just take a break? Silently drop the task because it was too hard, not worth it, or too boring? I had no way to tell.
 
-One week later, a flurry of activity! There was a flurry of activity; it turns out that getting two cloud services (GitHub and Travis CI) to talk to each other can be fiddly - who knew! - but the task was done in short order. I got an annoying task done, meZee got some cash and knowledge, and he even wished to contribute more! I couldn't have wished for a better outcome.
+One week later, a flurry of activity! It turns out that getting two cloud services (GitHub and Travis CI) to talk to each other can be fiddly - who knew! - but the task was done in short order. I got an annoying task done, meZee got some cash and knowledge, and he even wished to contribute more! I couldn't have wished for a better outcome.
 
 ## Do they work?
 
