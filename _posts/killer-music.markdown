@@ -19,3 +19,5 @@ People didn't care about what they played, let alone how they played it. They on
 Well _Enter the Dragon_ cared, and I noticed because I cared too. The main theme shows this clearly; the music tells you _exactly what this movie is about_, with not a hint of subtlety, and all in the first minute no less. All you have to do is pay attention. Try for yourself: see if you can figure out what the movie is about, by listening to the music alone:
 
 [![Enter The Dragon Main Theme](http://img.youtube.com/vi/c1KNZNGT5_w/0.jpg)](http://www.youtube.com/watch?v=c1KNZNGT5_w)
+
+http://www.gamasutra.com/blogs/PJBelcher/20130712/196145/Why_Candy_Crush_Saga_is_so_Engaging__An_Audio_Breakdown.php
