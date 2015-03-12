@@ -6,7 +6,7 @@ comments: true
 published: false
 ---
 
-Music in games is all-too-often relegated to the background, doing little more than filling silence, pasted on as an afterthought. Recently I've been contributing to the open source match-3 puzzle game [FreeBlocks](https://github.com/dorkster/freeblocks), and the surprising quality of the music reminded me of the true power of music, that it can not only enhance but elevate the game to new heights.
+Music in games is all-too-often relegated to the background, doing little more than filling silence, pasted on as an afterthought. Recently I've been contributing to the open source match-3 puzzle game [_FreeBlocks_](https://github.com/dorkster/freeblocks), and the surprising quality of the music reminded me of the true power of music, that it can not only enhance but elevate the game to new heights.
 
 ## Good music
 
@@ -21,5 +21,16 @@ Well _Enter the Dragon_ cared, and I noticed because I cared too. The main theme
 [![Enter The Dragon Main Theme](http://img.youtube.com/vi/c1KNZNGT5_w/0.jpg)](http://www.youtube.com/watch?v=c1KNZNGT5_w)
 
 [Kiais](https://en.wikipedia.org/wiki/Kiai) and Asian instruments? _Kung fu_. Blending into electric bass? _Possibly set in some East-meets-West locale_. Funky wah-wah guitar? _Blaxploitation_. [Diminished chord](https://en.wikipedia.org/wiki/Half-diminished_seventh_chord)? _Something sinister, possibly involving spies and conspiracies_. Yes, _everything_ in the music tells you something about the movie, and if you were to guess _you'd be right_. It gets better if you watch and listen to the opening sequence, as the music changes right on cue to what's happening on screen - the stars' names, their first appearances, changes in the scene. If you were to guess that this is the work of a master composer, [you'd be right too](https://en.wikipedia.org/wiki/Lalo_Schifrin).
+
+To take a gaming example, one of the high water marks for video game music is _Sonic 3_, due in no small part to collaboration with [world-class musicians](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3#Michael_Jackson.27s_involvement). For example, stage 1 of the game, _Angel Island Zone_, takes place in a tropical jungle environment, so the music is suitably cheery and Carribean with steel drums and marimbas. At the end of _Act 1_ however, the jungle is set _on fire_, with the level palette changed to an omnious orange and brown, an excellent signal for the ramp-up in difficulty. What's really clever though is the music: _Act 2_ has a different track, but listen and compare the two tracks:
+
+[![Act 1](http://img.youtube.com/vi/sC-d-AM0gCM/0.jpg)](http://www.youtube.com/watch?v=sC-d-AM0gCM)
+[![Act 2](http://img.youtube.com/vi/_GWv8JaJpc8/0.jpg)](http://www.youtube.com/watch?v=_GWv8JaJpc8)
+
+Notice anything? The two are _basically two versions of the same piece_, one in a major key and one in minor! They have essentially the same structure too. The music is saying, "Act 2 is like Act 1 only darker and harder", which is exactly what the graphics are also saying. The same compositional technique is used in stage 2, where the sleeker and faster Act 2 (with its jets and speed wheels) is reflected in its music.
+
+## Match 3 harmony
+
+Moving back to _FreeBlocks_; 
 
 http://www.gamasutra.com/blogs/PJBelcher/20130712/196145/Why_Candy_Crush_Saga_is_so_Engaging__An_Audio_Breakdown.php
