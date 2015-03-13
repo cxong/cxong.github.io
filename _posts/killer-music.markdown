@@ -31,6 +31,6 @@ Notice anything? The two are _basically two versions of the same piece_, one in 
 
 ## Match 3 harmony
 
-Moving back to _FreeBlocks_; 
+Moving back to _FreeBlocks_; I was looking for additional music for the game and found [this excellent piece](http://opengameart.org/content/crystal-cave-mysterious-ambience-seamless-loop) by [_pixelsphere
 
 http://www.gamasutra.com/blogs/PJBelcher/20130712/196145/Why_Candy_Crush_Saga_is_so_Engaging__An_Audio_Breakdown.php
