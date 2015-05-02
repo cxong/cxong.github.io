@@ -2,8 +2,78 @@
 layout: default
 ---
 
+<style>
+.items:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.item {
+  float: left;
+  width: 315px;
+  margin: 2% 2% 30px 2%;
+}
+.item img {
+  webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px #888;
+}
+.subtitle {
+  color: #777;
+}
+</style>
 <div class="well">
-    <p>Some games from various jams:</p>
-    <p>http://congusbongus.itch.io/</p>
-    <p>http://gamejolt.com/games/puzzle/beatrix/27454/</p>
+  <h1>Games for fun</h1>
+  <div class="items">
+    <div class="item">
+      <a href="http://cxong.github.io/cdogs-sdl"><img src="images/cdogs_sdl.png" alt="C-Dogs SDL" /></a>
+      <h3>C-Dogs SDL</h3>
+      <div class="subtitle">Windows, OSX, Linux, Android, GCW-Zero <a href="https://github.com/cxong/cdogs-sdl">repo</a></div>
+      <p>Classic overhead run-and-gun game, dozens of unique weapons and custom campaigns</p>
+    </div>
+    <div class="item">
+      <a href="https://github.com/dorkster/freeblocks/releases"><img src="images/freeblocks.png" alt="FreeBlocks" /></a>
+      <h3>FreeBlocks</h3>
+      <div class="subtitle">Linux, GCW-Zero <a href="https://github.com/dorkster/freeblocks">repo</a></div>
+      <p>Match 3 puzzle games</p>
+    </div>
+  </div>
+  <h1>Games for jams</h1>
+  <div class="items">
+    <div class="item">
+      <a href="http://congusbongus.itch.io/drunken-viking"><img src="images/drunken_viking.png" alt="Drunken Viking" /></a>
+      <h3>Drunken Viking</h3>
+      <div class="subtitle">HTML5 <a href="https://github.com/cxong/DrunkenViking">repo</a></div>
+      <p>Top-down puzzle game, retrace your drunken rampage from the night before</p>
+    </div>
+    <div class="item">
+      <a href="http://gamejolt.com/games/puzzle/beatrix/27454/"><img src="images/beatrix.png" alt="Beatrix" /></a>
+      <h3>Beatrix</h3>
+      <div class="subtitle">HTML5 <a href="https://github.com/cxong/Beatrix">repo</a></div>
+      <p>Music rhythm puzzle game, place drums into the path of moving beats to complete the mad beats</p>
+    </div>
+    <div class="item">
+      <a href="http://www.sweatychair.com/nohumanity/"><img src="images/no_humanity.png" alt="No Humanity" /></a>
+      <h3>No Humanity</h3>
+      <div class="subtitle">iOS, Android</div>
+      <p>Avoid everything in this simple, tough-as-nails survival game</p>
+    </div>
+    <div class="item">
+      <a href="http://congusbongus.itch.io/hectic-panda"><img src="images/hectic_panda.png" alt="Hectic Panda" /></a>
+      <h3>Hectic Panda</h3>
+      <div class="subtitle">HTML5 <a href="https://bitbucket.org/c_xong/hectic-panda">repo</a></div>
+      <p>Top-down avoiding game that will blow your mind</p>
+    </div>
+    <div class="item">
+      <a href="https://github.com/cxong/Slappa/releases"><img src="images/slappa.png" alt="Slappa!" /></a>
+      <h3>Slappa!</h3>
+      <div class="subtitle">Windows, GCW-Zero, Python/pygame <a href="https://github.com/cxong/Slappa">repo</a></div>
+      <p>Arcade kung fu minigame, punch and deflect projectiles for as long as you can</p>
+    </div>
+  </div>
+  <h1>More games</h1>
+  <a href="http://congusbongus.itch.io/">congusbongus.itch.io</a>
 </div>
