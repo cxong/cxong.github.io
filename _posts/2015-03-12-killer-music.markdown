@@ -18,7 +18,7 @@ People didn't care about what they played, let alone how they played it. They on
 
 Well _Enter the Dragon_ cared. The main theme tells you _exactly what this movie is about_, with not a hint of subtlety, and all in the first minute no less. All you have to do is pay attention. Try for yourself: see if you can figure out what the movie is about, by listening to the music alone:
 
-[![Enter The Dragon Main Theme](http://img.youtube.com/vi/c1KNZNGT5_w/0.jpg)](http://www.youtube.com/watch?v=c1KNZNGT5_w)
+<iframe width="320" height="240" src="https://www.youtube.com/embed/c1KNZNGT5_w" frameborder="0" allowfullscreen></iframe>
 
 [Kiais](https://en.wikipedia.org/wiki/Kiai) and Asian instruments? _Kung fu_. Blending into electric bass? _Possibly set in some East-meets-West locale_. Funky wah-wah guitar? _Blaxploitation_. [Diminished chord](https://en.wikipedia.org/wiki/Half-diminished_seventh_chord)? _Something sinister, possibly involving spies and conspiracies_. Yes, _everything_ in the music tells you something about the movie, in no uncertain terms. It gets better if you watch and listen, as the music changes right on cue to what's happening on screen - the stars' names, their first appearances, changes in the scene. If you were to guess that this is the work of a master composer, [you'd be right](https://en.wikipedia.org/wiki/Lalo_Schifrin).
 
