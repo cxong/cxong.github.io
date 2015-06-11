@@ -53,3 +53,8 @@ ul {
 .author a {
     color: #ee4444;
 }
+
+blockquote {
+    font-size: 14px;
+    font-style: italic;
+}
