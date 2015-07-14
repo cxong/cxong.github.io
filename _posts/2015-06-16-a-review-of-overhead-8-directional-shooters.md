@@ -35,3 +35,14 @@ How exactly does this unique sub-genre affect game design? Let's compare with it
   TODO: smash tv screenshot
   A lot of 8-directionals go the tactical, emergent gameplay route, where AI is relatively simple and independent. This has its perks, for example you can play with crowd control with simple, predictable AI, but scrolling shooter's patterns have a lot to offer too. Bosses really benefit from complex firing patterns.
 - **4-directional shooters**: the most similar to 8-directionals. What does the lack of diagonal directions mean? More movement, faster action, and enemies that can shoot in the 4 directions are much more dangerous. Weapons that can shoot diagonally or seek are much more powerful.
+
+## Super Contra and Jackal
+
+TODO: screenshots
+
+This duo of Konami-made classic NES games share many similarities, and are distinctive, quality entries in the subgenre. Not only are these games heaps of fun, they are also super polished, with **great music** as evidenced in the covers and remixes for Konami games in general.
+
+These games really do a lot with the subgenre, with a great variety in enemies, powerups and weapons:
+
+- Enemies include weak-and-slow infantry (that, in Jackal, can be run over!), fixed turrets, vehicles of various speeds and strength, even fixed-path planes. This gives the player a lot of **choice in how to engage**. The action is frantic so making these choices really puts pressure on the player.
+- The weapons that both you and the enemies use are interesting. There are slow-moving but accurate bullets, faster but fixed-axis bullets, indirect-fire grenades, spread shots, even homing missiles. Some of these **keep you away**, some **keep you moving**, some force you to **stop and evade**. The games are at their hardest when **multiple bullet types are in play**, where multiple bullets of different types can conspire together to kill you off.
