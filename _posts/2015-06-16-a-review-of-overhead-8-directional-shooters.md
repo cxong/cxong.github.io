@@ -34,7 +34,7 @@ It is this close relation between moving and shooting, and limitations in both, 
   A lot of 8-directionals go the tactical, emergent gameplay route, where AI is relatively simple and independent. This has its perks, for example you can play with crowd control with simple, predictable AI, but scrolling shooter's patterns have a lot to offer too. Bosses really benefit from complex firing patterns.
 - **4-directional shooters**: the most similar to 8-directionals. What does the lack of diagonal directions mean? More movement, faster action, and enemies that can shoot in the 4 directions are much more dangerous. Weapons that can shoot diagonally or seek are much more powerful.
 
-## Super Contra and Jackal
+## [Super Contra](http://contra.kontek.net/games/supercnes/supercnes.htm) and [Jackal](http://www.hardcoregaming101.net/jackal/jackal.htm)
 
 TODO: screenshots
 
@@ -47,7 +47,19 @@ These games really do a lot with the subgenre, with a great variety in enemies, 
 
 One downside, especially compared to their contemporaries, is that the pace is *slow*. Since both games have 1-hit-kills, stray bullets often send the player running in the opposite direction. Two possible improvements are: auto scroll, and removing 1-hit-kills.
 
-## Crimsonland
+## [Front Line](http://www.mobygames.com/game/front-line)
+
+TODO: screenshot
+
+Going back to an early Taito game, this is a really underrated one with some neat ideas. You play as a soldier who can shoot a gun or throw grenades, the animations are hilarious, and you can even drive tanks! Nevertheless, it has significant flaws too:
+
+- Bullets come out of your gun barrel on your right hand, which makes sense but makes aiming really hard, especially since enemies can come from all around
+- Enemies are really hard to pre-empt. This is long before game designers learned to use [antics](http://johnkstuff.blogspot.com.au/2009/02/anticipations.html). Instead, the enemy AI literally performs actions at random, including shooting at you.
+- There's not enough meaningful difference between the gun and grenade; most of the time they are both useful. I think shmups with their screen-clearing "bombs" got it right.
+ 
+Some of these flaws may be intentional, given that it's a quarter-munching game at heart. It seems that the arcade version is much more superior to the NES port. The pacing in the NES port is really slow too.
+
+## [Crimsonland](http://www.crimsonland.com/)
 
 TODO: screenshots
 
