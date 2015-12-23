@@ -34,7 +34,23 @@ It is this close relation between moving and shooting, and limitations in both, 
   A lot of 8-directionals go the tactical, emergent gameplay route, where AI is relatively simple and independent. This has its perks, for example you can play with crowd control with simple, predictable AI, but scrolling shooter's patterns have a lot to offer too. Bosses really benefit from complex firing patterns.
 - **4-directional shooters**: the most similar to 8-directionals. What does the lack of diagonal directions mean? More movement, faster action, and enemies that can shoot in the 4 directions are much more dangerous. Weapons that can shoot diagonally or seek are much more powerful.
 
-## [Super Contra](http://contra.kontek.net/games/supercnes/supercnes.htm) and [Jackal](http://www.hardcoregaming101.net/jackal/jackal.htm)
+## Early arcade/console games
+
+Overhead shooters have a long heritage; one of the first arcade games ever, [Gun Fight](http://www.arcade-museum.com/game_detail.php?game_id=8039), had players duelling with a two-stick control scheme - one to move, the other to aim and shoot. Through the 80's game makers added features - powerups, different weapons - and tweaked game mechanics, learning valuable design lessons.
+
+### [Front Line](http://www.mobygames.com/game/front-line)
+
+TODO: screenshot
+
+An early Taito game, this is a really underrated one with some neat ideas. You play as a soldier who can shoot a gun or throw grenades, the animations are hilarious, and you can even drive tanks! Nevertheless, it has significant flaws too:
+
+- Bullets come out of your gun barrel on your right hand, which makes sense but makes aiming really hard, especially since enemies can come from all around
+- Enemies are really hard to pre-empt. This is long before game designers learned to use [antics](http://johnkstuff.blogspot.com.au/2009/02/anticipations.html). Instead, the enemy AI literally performs actions at random, including shooting at you.
+- There's not enough meaningful difference between the gun and grenade; most of the time they are both useful. I think shmups with their screen-clearing "bombs" got it right.
+ 
+Some of these flaws may be intentional, given that it's a quarter-munching game at heart. It seems that the arcade version is much more superior to the NES port. The pacing in the NES port is really slow too.
+
+### [Super Contra](http://contra.kontek.net/games/supercnes/supercnes.htm) and [Jackal](http://www.hardcoregaming101.net/jackal/jackal.htm)
 
 TODO: screenshots
 
@@ -43,23 +59,22 @@ This duo of Konami-made classic NES games share many similarities, and are disti
 These games really do a lot with the subgenre, with a great variety in enemies, powerups and weapons:
 
 - Enemies include weak-and-slow infantry (that, in Jackal, can be run over!), fixed turrets, vehicles of various speeds and strength, even fixed-path planes. This gives the player a lot of **choice in how to engage**. The action is frantic so making these choices really puts pressure on the player.
-- The weapons that both you and the enemies use are interesting. There are slow-moving but accurate bullets, faster but fixed-axis bullets, indirect-fire grenades, spread shots, even homing missiles. Some of these **keep you away**, some **keep you moving**, some force you to **stop and evade**. The games are at their hardest when **multiple bullet types are in play**, where multiple bullets of different types can conspire together to kill you off.
+- The weapons that both you and the enemies use are interesting. There are slow-moving but accurate bullets, faster but fixed-axis bullets, indirect-fire grenades, spread shots, even homing missiles. Some of these **keep you away**, some **keep you moving**, some force you to **stop and evade**. The games are at their hardest when **multiple bullet types are in play**, where their combination is much more lethal.
 
 One downside, especially compared to their contemporaries, is that the pace is *slow*. Since both games have 1-hit-kills, stray bullets often send the player running in the opposite direction. Two possible improvements are: auto scroll, and removing 1-hit-kills.
 
-## [Front Line](http://www.mobygames.com/game/front-line)
+Another significant flaw is that your player is quite close to the direction of scrolling, making you vulnerable to new enemies that appear suddenly. This is especially a problem in Jackal. Perhaps this is due to the arcade heritage (cheap, sudden deaths means more quarters), or to the NES's low resolution.
+
+### [Heavy Barrel](http://videogamecritic.com/nesfh.htm)
 
 TODO: screenshot
 
-Going back to an early Taito game, this is a really underrated one with some neat ideas. You play as a soldier who can shoot a gun or throw grenades, the animations are hilarious, and you can even drive tanks! Nevertheless, it has significant flaws too:
+A late NES game, less well known but not for its quality, because it's really awesome. Coming after seminal titles like the aforementioned Konami games and the influential [Commando](https://en.wikipedia.org/wiki/Commando_(video_game)), Heavy Barrel benefited from the design lessons from those games. As a result this game sports many cool and powerful weapons, virtually all accessible in the first level. In fact the first level is a real tour-de-force demonstration of how awesome shooters can be.
 
-- Bullets come out of your gun barrel on your right hand, which makes sense but makes aiming really hard, especially since enemies can come from all around
-- Enemies are really hard to pre-empt. This is long before game designers learned to use [antics](http://johnkstuff.blogspot.com.au/2009/02/anticipations.html). Instead, the enemy AI literally performs actions at random, including shooting at you.
-- There's not enough meaningful difference between the gun and grenade; most of the time they are both useful. I think shmups with their screen-clearing "bombs" got it right.
- 
-Some of these flaws may be intentional, given that it's a quarter-munching game at heart. It seems that the arcade version is much more superior to the NES port. The pacing in the NES port is really slow too.
+- Less than half a minute into the first level, you are accosted by two enemies: fixed machine gunners and fast-running soldiers. This sets up an interesting tactical challenge, as the machine gunners zone you out, whereas the fast runners can approach and threaten you. There are at least two ways to deal with this: quickly take out the machine gunners so you have space to evade the runners, or patiently take out the runners while staying out of the machine gunners' zones.
+- All weapon pickups in the game (including grenades, which are cool in theory but overshadowed by the main weapons) have a fixed amount of ammo (think Metal Slug). It's an effective system that discourages player spamming, and keeps them moving with the promise of more ammo.
 
-## [Crimsonland](http://www.crimsonland.com/)
+### [Crimsonland](http://www.crimsonland.com/)
 
 TODO: screenshots
 
