@@ -74,6 +74,15 @@ A late NES game, less well known but not for its quality, because it's really aw
 - Less than half a minute into the first level, you are accosted by two enemies: fixed machine gunners and fast-running soldiers. This sets up an interesting tactical challenge, as the machine gunners zone you out, whereas the fast runners can approach and threaten you. There are at least two ways to deal with this: quickly take out the machine gunners so you have space to evade the runners, or patiently take out the runners while staying out of the machine gunners' zones.
 - All weapon pickups in the game (including grenades, which are cool in theory but overshadowed by the main weapons) have a fixed amount of ammo (think Metal Slug). It's an effective system that discourages player spamming, and keeps them moving with the promise of more ammo.
 
+### [Mercs](https://en.wikipedia.org/wiki/Mercs)
+
+TODO: screenshot
+
+This game is basically a more polished version of the earlier Commando game (and similar ones like Ikari Warriors and Gun.Smoke). As a result it's pretty straightforward and repetitive: lots of enemies, lots of shooting. A few points are worth mentioning:
+
+- 3 player co-op. Shooters, especially multi-directional ones, are great for co-op because you can help each other out by shooting at enemies threatening the other players - that's more ways to interact and co-op.
+- Lots of enemies use grenades. Grenades are interesting weapons - because they take time to land and explode, they give the player a bit of time to react thoughtfully, keeping them on the move and the pace of the game up.
+
 ### [Crimsonland](http://www.crimsonland.com/)
 
 TODO: screenshots
