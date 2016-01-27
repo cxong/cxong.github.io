@@ -70,7 +70,7 @@ Now start the chat server itself (supporting up to `16` clients):
 ```c
 ENetAddress addr;
 addr.host = ENET_HOST_ANY;
-addr.port = 0;  // let the OS choose a free port for us
+addr.port = ENET_PORT_ANY;
 ENetHost *host = enet_host_create(&addr, 16, 2, 0, 0);
 ```
 
