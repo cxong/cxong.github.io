@@ -33,7 +33,7 @@ This is very simple in concept but takes a surprising amount of code to implemen
 
 <sub>Full credit for [this solution](http://lists.cubik.org/pipermail/enet-discuss/2009-March/001072.html) goes to [Lee Salzman](http://sauerbraten.org/lee/), of Sauerbraten and ENet.</sub>
 
-To illustrate, I'll provide a code walkthrough by implementing a basic chat service using C and ENet, an excellent cross-platform game networking library. But the same approach will work for your chosen language/framework, because we're dealing with socket networking for the most part. A full working server/client code example is available here: https://github.com/cxong/ENetLANChatServer
+To illustrate, I'll provide a code walkthrough by implementing a basic chat service using C and ENet, an excellent cross-platform game networking library. But the same approach will work for your chosen language/framework, because we're dealing with socket networking for the most part. A full working server/client code example is available here: [https://github.com/cxong/ENetLANChatServer](https://github.com/cxong/ENetLANChatServer)
 
 ## The Server
 
