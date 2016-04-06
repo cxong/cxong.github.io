@@ -88,9 +88,19 @@ This game is basically a more polished version of the earlier Commando game (and
 - 3 player co-op. Shooters, especially multi-directional ones, are great for co-op because you can help each other out by shooting at enemies threatening the other players - that's more ways to interact and co-op.
 - Lots of enemies use grenades. Grenades are interesting weapons - because they take time to land and explode, they give the player a bit of time to react thoughtfully, keeping them on the move and the pace of the game up.
 
-## 90's PC shooters
+## 90's Innovation
+
+Overhead shooters really blossomed in this era. Enabled by technical advancements and more discerning players, game makers looked for all kinds of ways to enhance shooters, taking ideas from other genres and games, as well as simply adding more polish to what's become an established genre.
 
 Meanwhile in PC land, shooters saw lots of innovation from diverse game makers. Not only were these shooters creative, many were made with loving care; games like C-Dogs and its ilk were made by people who grew up with and genuinely adored these games.
+
+### [Smash TV](http://www.mobygames.com/game/smash-tv)
+
+> ![Smash TV](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smash_tv.png)
+
+Perhaps the quintessential 8-directional twin-stick shooter; this enhanced remake of Robotron: 2084 distils everything great about overhead shooters into a no-nonsense, crazy-hectic arena shooter with a fantastically-absurd premise. Shoot endless hordes of enemies, get big powerups, fight ridiculous bosses, collect unending piles of cash. It's simple and unsophisticated: the weapon selection is pretty standard, the enemies even more so - there are ones that run towards you, ones that run towards you faster, some that occasionally shoot you, others that run towards you in funny patterns.
+
+Unfortunately the game suffers from a big flaw: uneven pacing. In between the ceaseless enemies and unpredictable powerups, it's very hard to control difficulty and player experience. Sometimes normal levels with unfortunate powerup placement can be way more brutal than boss fights. This is a problem we'll see again in a closely related game: Crimsonland. I think the game could really benefit from something like the [AI Director](http://left4dead.wikia.com/wiki/The_Director); unfortunately this wouldn't be developed until a decade later.
 
 ### [Tapan Kaikki](http://everything2.com/title/Tapan+Kaikki) + [Assault Trooper](http://www.abandonia.com/games/486)
 
