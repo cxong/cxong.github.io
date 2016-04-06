@@ -88,6 +88,21 @@ This game is basically a more polished version of the earlier Commando game (and
 - 3 player co-op. Shooters, especially multi-directional ones, are great for co-op because you can help each other out by shooting at enemies threatening the other players - that's more ways to interact and co-op.
 - Lots of enemies use grenades. Grenades are interesting weapons - because they take time to land and explode, they give the player a bit of time to react thoughtfully, keeping them on the move and the pace of the game up.
 
+## 90's PC shooters
+
+Meanwhile in PC land, shooters saw lots of innovation from diverse game makers. Not only were these shooters creative, many were made with loving care; games like C-Dogs and its ilk were made by people who grew up with and genuinely adored these games.
+
+### [Tapan Kaikki](http://everything2.com/title/Tapan+Kaikki) + [Assault Trooper](http://www.abandonia.com/games/486)
+
+> ![Tapan Kaikki](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/tapan_kaikki.jpg)
+> ![Assault Trooper](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/assault_trooper.png)
+
+These two games share more than a few things in common. They were both made by Finns, were released around the same time (1995, 1997), have tank controls, and are chock full of 90's shooter goodies. Tapan Kaikki has some of the most elaborate gore effects of any game: enemies explode in gibs, which leave blood trails, which you can kick (and leave more blood trails), and did I mention you can get your feet covered and leave bloody footprints? Assault Trooper on the other hand is full of interactivity and cool ideas; everything's destructible, even the trees and walls. Both are very interesting examples to study.
+
+Both games are unfortunately hampered by their tank controls - that is, players mainly move forward and rotate via keyboard controls. Both have strafing functions but they are quite awkward to use. Like other games with tank controls, aiming, especially at far targets, is challenging. Navigating twisty passages is likewise difficult. Both games feature lots of tight, indoor areas which are bad with tank controls; I remember dying endlessly in Assault Trooper because my grenade didn't go where I wanted it to, and bounced back from a corner. My opinion is that tank controls should be avoided in indoor, fast-paced shooters for these reasons.
+
+But don't let that colour your perception of these games; they are flawed gems that are seriously underappreciated.
+
 ### [Crimsonland](http://www.crimsonland.com/)
 
 > ![Crimsonland](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/crimsonland_large.png)
