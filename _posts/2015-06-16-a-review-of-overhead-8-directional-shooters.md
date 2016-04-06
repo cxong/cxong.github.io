@@ -100,7 +100,7 @@ Meanwhile in PC land, shooters saw lots of innovation from diverse game makers. 
 
 Perhaps the quintessential 8-directional twin-stick shooter; this enhanced remake of Robotron: 2084 distils everything great about overhead shooters into a no-nonsense, crazy-hectic arena shooter with a fantastically-absurd premise. Shoot endless hordes of enemies, get big powerups, fight ridiculous bosses, collect unending piles of cash. It's simple and unsophisticated: the weapon selection is pretty standard, the enemies even more so - there are ones that run towards you, ones that run towards you faster, some that occasionally shoot you, others that run towards you in funny patterns.
 
-Unfortunately the game suffers from a big flaw: uneven pacing. In between the ceaseless enemies and unpredictable powerups, it's very hard to control difficulty and player experience. Sometimes normal levels with unfortunate powerup placement can be way more brutal than boss fights. This is a problem we'll see again in a closely related game: Crimsonland. I think the game could really benefit from something like the [AI Director](http://left4dead.wikia.com/wiki/The_Director); unfortunately this wouldn't be developed until a decade later.
+Unfortunately the game suffers from a big flaw: **uneven pacing**. In between the ceaseless enemies and unpredictable powerups, it's very hard to control difficulty and player experience. Sometimes normal levels with unfortunate powerup placement can be way more brutal than boss fights. This is a problem we'll see again in a closely related game: Crimsonland. I think the game could really benefit from something like the [AI Director](http://left4dead.wikia.com/wiki/The_Director); unfortunately this wouldn't be developed until a decade later.
 
 ### [Tapan Kaikki](http://everything2.com/title/Tapan+Kaikki) + [Assault Trooper](http://www.abandonia.com/games/486)
 
@@ -109,9 +109,18 @@ Unfortunately the game suffers from a big flaw: uneven pacing. In between the ce
 
 These two games share more than a few things in common. They were both made by Finns, were released around the same time (1995, 1997), have tank controls, and are chock full of 90's shooter goodies. Tapan Kaikki has some of the most elaborate gore effects of any game: enemies explode in gibs, which leave blood trails, which you can kick (and leave more blood trails), and did I mention you can get your feet covered and leave bloody footprints? Assault Trooper on the other hand is full of interactivity and cool ideas; everything's destructible, even the trees and walls. Both are very interesting examples to study.
 
-Both games are unfortunately hampered by their tank controls - that is, players mainly move forward and rotate via keyboard controls. Both have strafing functions but they are quite awkward to use. Like other games with tank controls, aiming, especially at far targets, is challenging. Navigating twisty passages is likewise difficult. Both games feature lots of tight, indoor areas which are bad with tank controls; I remember dying endlessly in Assault Trooper because my grenade didn't go where I wanted it to, and bounced back from a corner. My opinion is that tank controls should be avoided in indoor, fast-paced shooters for these reasons.
+Both games are unfortunately hampered by their tank controls - that is, players mainly move forward and rotate via keyboard controls. Both have strafing functions but they are quite awkward to use. Like other games with tank controls, **aiming, especially at far targets, is challenging**. **Navigating twisty passages is likewise difficult**. Both games feature lots of tight, indoor areas which are bad with tank controls; I remember dying endlessly in Assault Trooper because my grenade didn't go where I wanted it to, and bounced back from a corner. My opinion is that tank controls should be avoided in indoor, fast-paced shooters for these reasons.
 
 But don't let that colour your perception of these games; they are flawed gems that are seriously underappreciated.
+
+### [Strike Series](http://www.mobygames.com/game-group/electronic-arts-strike-series) + [Fire Fight](http://www.old-games.com/download/2146/fire-fight)
+
+> ![Strike Series](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/strike.gif)
+> ![Fire Fight](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/fire_fight.jpg)
+
+Compared to the last two games, these adapt well to tank controls. Recall that the two problems with tank controls are **moving around in tight spaces** and **aiming at far targets**. Both are about flying aircraft in wide-open spaces, rather than tight indoors. Both also solve the problem of low accuracy with interesting weapons and mechanics. In Strike's case, there is a limited amount of **auto-aim**, which is cleverly explaned as having a "gunner". In Fire Fight, there's the cool "swarmer" weapon which fires a spread salvo of **homing missiles**.
+
+Strike also has the interesting fuel mechanic, which is basically a draining health meter and you must scour the map for extra fuel to stay alive. It's a good way of countering an otherwise slow-paced game, but this sort of [resource mechanic has its problems too](http://cxong.github.io/2015/05/ammo-is-a-resource).
 
 ### [Crimsonland](http://www.crimsonland.com/)
 
