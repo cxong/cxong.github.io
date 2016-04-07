@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "A Review of Overhead 8-Directional Shooters"
-date: 2015-06-16
+date: 2016-04-07
 comments: true
-published: false
+published: true
 ---
 
 To make better games, one can look for similar games (not only in the same genre), and see what worked and what didn't. One game I'm making is [C-Dogs SDL](cxong.github.io/cdogs-sdl/), an **overhead 8-directional shoot-em-up**. A while ago I [started looking for similar games](https://github.com/cxong/cdogs-sdl/issues/80), looking for cool features I can steal, but also for where they weren't fun, and *why*. [**Bertram25**](https://github.com/Bertram25) (of [*Valyria Tear*](valyriatear.blogspot.com) and [*OpenDungeons*](http://opendungeons.github.io/)) encouraged me to elaborate on some of my conclusions in a blog post, so here it is :smile:!
@@ -134,3 +134,22 @@ Coming after an era of gory shooters, Crimsonland plays like an unpretentious di
 - Unfortunately, the game is severely lacking in content. Its huge range of weapons, powerups, perks and enemies serves as its content, via its quest mode, and while that's lots of fun, after the whole game is unlocked there's not much else to do. To me this proves that there's only so much you can do with shooting things in an open arena; you really need **content** in the form of **maps** to create interesting spaces for unique gameplay.
 
 Ultimately, I think Crimsonland is a great case-study on how **less-is-more**, at least for balance. There are so many weapons, powerups, perks and enemies that balance is simply impossible. Games that don't rely on the number of weapons for content would do well with less, if they want to be balanced, for example. One type of game that thrives on variety however is roguelikes, and sadly Crimsonland missed this boat on becoming a game like *Binding of Isaac* or *Nuclear Throne*.
+
+## Modern Overhead Shooters
+
+The core design of overhead shooters has been rather stagnant after the 90's. There has been a lot of innovation at the fringes, like cinematic plots, but the basic mechanics are much the same. Titles like [*Alien Shooter*](http://www.mobygames.com/game-group/alien-shooter-series), [*Shadowgrounds*](https://en.wikipedia.org/wiki/Shadowgrounds_(series)), and the recent [*Helldivers*](http://arrowheadgamestudios.com/games/helldivers/) are all great, polished games, but their gameplay is often considered "retro", and in many ways are less ambitious in their design as some of the creative entries from the 90's.
+
+### [Binding of Isaac](http://bindingofisaac.com/) + [Nuclear Throne](http://nuclearthrone.com/)
+
+> ![Binding of Isaac](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/boi.png)
+> ![Nuclear Throne](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/nuclear_throne.png)
+
+One exception is the games that marry overhead shooting action within a rogue-like framework. Exemplified by Binding of Isaac, but in this regard surpassed by Nuclear Throne, the marriage does a lot of justice to shooters - the **myriad combinations of weapons and enemies** typically seen in roguelikes makes these shooters more enjoyable than many traditional shooters, much as *Crimsonland*'s numerous weapons had.
+
+This mixed-genre benefits the rogue-like aspect too; just as different weapons and enemies forces you to play the game differently, each run-through is a unique experience due to the items and powerups you happen to get.
+
+## The Future?
+
+I believe we'll continue to see a steady trickle of great overhead shooters, because the genre is simple unadulterated fun. But there'll always be room for innovation, whether that's taking ideas from other, even unrelated genres, but also revisiting old games that had neat ideas but didn't explore them to their fullest, or for whatever reason weren't influential.
+
+The same could be said for any genre, really. We ought to look back on games from the past, because they have a lot of lessons to teach, both what to do and what not to do.
