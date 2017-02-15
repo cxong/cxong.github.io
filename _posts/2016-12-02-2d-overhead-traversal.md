@@ -45,3 +45,21 @@ Once we start thinking about the principles behind traversal and what makes it f
 - **Shortcuts**. Things like portals and secret passageways are already common in 2D overhead games. One very subtle yet clever implementation is the [ledges in Pokemon games](http://bulbapedia.bulbagarden.net/wiki/Ledge), which are one-way obstacles, strategically placed so that during your first trip you cannot pass through them, but on your way back you can jump over them. This removes the tedium of backtracking without compromising the experience when you are first exploring an area.
 
 > TODO: screenshot pokemon ledge
+
+- **Multi-storey Levels**. 2D overhead can do multi-storey architecture, even though it doesn't do it quite as well. Still, it's a great way to pack lots of content in a limited amount of space, which makes it very useful for 2D overhead where the viewport is constrained.
+
+> TODO: screenshots JRPG stairs, lifts, zelda hole puzzles
+
+- [**Overworld**](https://en.wikipedia.org/wiki/Overworld). 2D overhead games have actually portrayed huge worlds for a long time, using an old trick: the overworld. That is, when travelling between key locations, the game scales all the way out, representing vast distances in a small space. The player gets a sense of the size of the world, even though it's smoke-and-mirrors, and very little of that world is actually fleshed out. A very well established hack!
+
+> TODO: screenshots overworld, ultima, final fantasy, chrono trigger
+
+- **Signposts**. One of the most un-fun ways to traverse is when you are lost, so signposts help prevent that. Not just literal signposts though; in Final Fantasy 6, [Game Design Forum's Reverse Design](http://thegamedesignforum.com/features/reverse_design_ff6_5.html) shows how the game cleverly uses its NPCs to give direct, subtle, even ironic directions to its game world and plot. It also helps engender a [sense of place](http://venturebeat.com/community/2012/05/30/games-need-more-place/) - the sense that this place is a living, breathing and self-consistent entity which has complex relations between itself and the player.
+
+> TODO: screenshots pokemon signs, ff6 NPCs
+
+- **Traversal tools**. Who says 2D overhead games can't have awesome traversal tools? It's not common but there are examples of special tools that are either challenging to use or get the player to inaccessible places. Adding places that are out-of-the-way, hard to reach makes it all the more rewarding to actually get there, and makes it all the more fun to explore the world.
+
+> TODO: screenshots zelda hookshot, pokemon acro bike, chocobo in shallows
+
+With all these techniques, it should be possible to create open-world 2D overhead games with great traversal mechanics. As I've said before, it always pays to study how games have approached these design problems, and it really helps you make better games!
