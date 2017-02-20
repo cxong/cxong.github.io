@@ -3,7 +3,7 @@ layout: post
 title: "2D Overhead Traversal"
 date: 2016-12-02
 comments: true
-published: false
+published: true
 ---
 
 Why are open world games so fun? A lot of reasons: a huge, interesting world, lots of things to see and do. But one important mechanic that support this, and which pops up a lot when people talk about open world games, is **traversal**. What's that?
@@ -22,7 +22,7 @@ Other games also get mentioned, but I've noticed that *they are all 3D games*, a
 
 - **Vertical movement**: lots of traversal is about cool ways to navigate the environment, the vertical axis in particular. Jumping, climbing, spelunking, grappling, gliding, these are all things that are really awkward if not impossible to pull off in top-down 2D. Incidentally, these things are possible in 2D platformers, which is why the 2D platformer equivalent of open world games - *Metroidvania* - all feature novel movement mechanics, and not just the jump.
 
-  > ![metroid bomb jump](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/metroid_bombjump.gif)![worms ninja rope](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/worms_ninja_rope.png)
+  > ![metroid bomb jump](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/metroid_bombjump.jpg)![worms ninja rope](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/worms_ninja_rope.png)
 
 - **An extra dimension for navigation**: seems obvious, but let's look at an example of a house. In 2D, usually you can just walk in, out, and around it. But in 3D, you could climb up the walls over it, jump off the roof to the ground, maybe go under it through a tunnel or basement, and so on. For multi-storey buildings or more complex architecture, 3D has even more options. You can fake these things in 2D but in 3D it is much more natural. This means that you can more easily pack in a very content-rich area in a small space, and have the player easily and quickly navigate it. Platforms, lifts, stairs, balconies, trap doors - all very easy to do.
 
@@ -56,10 +56,10 @@ Once we start thinking about the principles behind traversal and what makes it f
 
 - **Signposts**. One of the most un-fun ways to traverse is when you are lost, so signposts help prevent that. Not just literal signposts though; in Final Fantasy 6, [Game Design Forum's Reverse Design](http://thegamedesignforum.com/features/reverse_design_ff6_5.html) shows how the game cleverly uses its NPCs to give direct, subtle, even ironic directions to its game world and plot. It also helps engender a [sense of place](http://venturebeat.com/community/2012/05/30/games-need-more-place/) - the sense that this place is a living, breathing and self-consistent entity which has complex relations between itself and the player.
 
-> ![pokemon signposts](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon_signposts.png)![final fantasy 6 NPC directions](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/final_fantasy_6_allusion.png)
+> ![pokemon signposts](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon_signpost.png)![final fantasy 6 NPC directions](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/final_fantasy_6_allusion.png)
 
 - **Traversal tools**. Who says 2D overhead games can't have awesome traversal tools? It's not common but there are examples of special tools that are either challenging to use or get the player to inaccessible places. Adding places that are out-of-the-way, hard to reach makes it all the more rewarding to actually get there, and makes it all the more fun to explore the world.
 
-> ![zelda hookshot](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/zelda_hookshot.png)![pokemon acro bike](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon_acro_bike.png)![chocobo in shallows](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/final_fantasy_chocobo.png)
+> ![zelda hookshot](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/zelda_hookshot.png)![pokemon acro bike](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon_acro_bike.png)![chocobo in shallows](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/final_fantasy_chocobo.jpg)
 
 With all these techniques, it should be possible to create open-world 2D overhead games with great traversal mechanics. As I've said before, it always pays to study how games have approached these design problems, and it really helps you make better games!
