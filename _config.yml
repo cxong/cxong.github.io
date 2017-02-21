@@ -24,7 +24,7 @@ gaaccount: 'UA-47923731-2'
 disqus: 'congusbongusgames'
 comments: true
 
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 paginate: 3
 
 exclude: ['README.md', 'LICENSE']
