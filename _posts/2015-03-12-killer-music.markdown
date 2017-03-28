@@ -18,15 +18,15 @@ People didn't care about what they played, let alone how they played it. They on
 
 Well _Enter the Dragon_ cared. The main theme tells you _exactly what this movie is about_, with not a hint of subtlety, and all in the first minute no less. All you have to do is pay attention. Try for yourself: see if you can figure out what the movie is about, by listening to the music alone:
 
-<iframe width="320" height="64" src="https://www.youtube.com/embed/ZunGXrbS0hQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="100" src="https://www.youtube.com/embed/ZunGXrbS0hQ" frameborder="0" allowfullscreen></iframe>
 
 [Kiais](https://en.wikipedia.org/wiki/Kiai) and Asian instruments? _Kung fu_. Blending into electric bass? _Possibly set in some East-meets-West locale_. Funky wah-wah guitar? _Blaxploitation_. [Diminished chord](https://en.wikipedia.org/wiki/Half-diminished_seventh_chord)? _Something sinister, possibly involving spies and conspiracies_. Yes, _everything_ in the music tells you something about the movie, in no uncertain terms. It gets better if you watch and listen, as the music changes right on cue to what's happening on screen - the stars' names, their first appearances, changes in the scene. If you were to guess that this is the work of a master composer, [you'd be right](https://en.wikipedia.org/wiki/Lalo_Schifrin).
 
 To take a gaming example, one of my favourite video game soundtracks is _Sonic 3_, due in no small part to collaboration with [world-class musicians](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3#Michael_Jackson.27s_involvement). For example, stage 1 of the game, _Angel Island Zone_, takes place in a tropical jungle environment, so the music is suitably cheery and Carribean with steel drums and xylophones. At the end of _Act 1_ however, the jungle is set _on fire_, with the level palette changed to an omnious orange and brown, an excellent signal for the ramp-up in difficulty. What's really clever though is the music: _Act 2_ has a different track, but listen and compare the two tracks:
 
-<iframe width="320" height="64" src="https://www.youtube.com/embed/sC-d-AM0gCM" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="100" src="https://www.youtube.com/embed/sC-d-AM0gCM" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="320" height="64" src="https://www.youtube.com/embed/_GWv8JaJpc8" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="100" src="https://www.youtube.com/embed/_GWv8JaJpc8" frameborder="0" allowfullscreen></iframe>
 
 Notice anything? The two are _versions of the same piece_, one in a major [key](https://en.wikipedia.org/wiki/Key_(music)) and one in minor! They have essentially the same structure too. The music is saying, "Act 2 is like Act 1 only darker and harder", which is also what the graphics are saying. The same compositional technique is used in stage 2, where the sleeker and faster Act 2 (with its jets and speed wheels) is reflected in its music.
 
