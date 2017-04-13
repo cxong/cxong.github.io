@@ -14,6 +14,7 @@ published: false
   - Dune: Guild/Emperor/Landsraad, Guild wields soft power but doesn't want hard power
   - CnC3: Scrin are aliens
 - Mechanical uniqueness: three aspects, each faction is good at one, bad at one, mediocre at one, so any non-mirror matchup is asymmetrical yet balanced
+- Another aspect to consider: different objectives. Results in unbalanced yet interesting gameplay and narratives
 
 - Case studies:
   - Starcraft
