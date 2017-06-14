@@ -46,6 +46,10 @@ ul {
     font-size: 1.3em;
 }
 
+.well img {
+    max-width: 100%;
+}
+
 .author {
     color: #ee4444;
 }
@@ -57,8 +61,4 @@ ul {
 blockquote {
     font-size: 14px;
     font-style: italic;
-}
-
-blockquote img {
-  max-width: 100%;
 }
