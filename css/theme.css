@@ -59,6 +59,6 @@ blockquote {
     font-style: italic;
 }
 
-blockquote > img {
+blockquote img {
   max-width: 100%;
 }
