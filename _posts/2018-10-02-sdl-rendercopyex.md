@@ -28,4 +28,4 @@ Pretty simple, although you'll probably want some boilerplate code like I did:
 		return SDL_RenderCopyEx(renderer, t, NULL, &dst, angle, NULL, flip);
 	}
 
-Source code here: https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c
+Source code here: [https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c]
