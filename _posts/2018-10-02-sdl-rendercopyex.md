@@ -11,7 +11,7 @@ SDL_RenderCopyEx is a function in SDL2 that allows you to rotate, scale and flip
 
 This is a simple demo project which uses SDL_RenderCopyEx to rotate, scale and flip a sprite. There's also a `center` parameter which controls the center of rotation, which defaults to the center of the sprite you are rendering.
 
-![sdl2-rendercopyex-demo](sdl-rendercopyex.png)
+![sdl2-rendercopyex-demo](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/sdl-rendercopyex.png)
 
 Pretty simple, although you'll probably want some boilerplate code like I did:
 
