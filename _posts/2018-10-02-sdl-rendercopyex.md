@@ -15,6 +15,7 @@ This is a simple demo project which uses SDL_RenderCopyEx to rotate, scale and f
 
 Pretty simple, although you'll probably want some boilerplate code like I did:
 
+```c
 	int render(
 		SDL_Renderer *renderer, SDL_Surface *s, SDL_Texture *t,
 		int x, int y, double angle, double sx, double sy, SDL_RendererFlip flip)
@@ -27,5 +28,6 @@ Pretty simple, although you'll probably want some boilerplate code like I did:
 		dst.h = (int)(s->h * sy);
 		return SDL_RenderCopyEx(renderer, t, NULL, &dst, angle, NULL, flip);
 	}
+```
 
-Source code here: [https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c]
+Source code here: [https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c](https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c)
