@@ -31,3 +31,9 @@ Pretty simple, although you'll probably want some boilerplate code like I did:
 ```
 
 Source code here: [https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c](https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/main.c)
+
+## Update
+
+By using SDL_RenderCopyEx to rotate and stretch sprites, it can be used to create bullet trails, like this in [C-Dogs SDL](http://cxong.github.io/cdogs-sdl/):
+
+![trails](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/trails.png)
