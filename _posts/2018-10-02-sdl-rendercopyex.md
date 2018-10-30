@@ -36,4 +36,4 @@ Source code here: [https://github.com/cxong/sdl2-rendercopyex-demo/blob/master/m
 
 By using SDL_RenderCopyEx to rotate and stretch sprites, it can be used to create bullet trails, like this in [C-Dogs SDL](http://cxong.github.io/cdogs-sdl/):
 
-![trails](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/trails.png)
+![trails](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/trails.gif)
