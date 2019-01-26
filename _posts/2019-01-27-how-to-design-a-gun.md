@@ -55,7 +55,7 @@ Let's try with an example. Suppose it is 100 years from now, firearms technology
 
 So let's start with the bare minimum. A firearm is like a hand-cannon, it needs a barrel, and something to load bullets at the end. Let's stick with the humble magazine; it's worked for centuries after all. [Caseless ammunition] means we can pack more cartridges in our magazine, and aren't so limited in its shape, so it doesn't have to curve like a banana.
 
-[gun 1](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/gun_1.jpg)
+![gun 1](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/gun_1.jpg)
 
 Next we need some way to fire the gun. Keep it simple and stick with the grip-and-trigger that we humans are comfortable with. But let's stop a moment and consider how the operator should hold and fire the gun. In theory, how the operator holds the gun isn't beholden to its internals. What's more important are the ergonomics, if the operator can hold, aim and fire comfortably and with precision. Look a the bullpup design, popular in many of today's rifles, which moves the grip forward - away from the chamber - but allows the barrel to be moved back, shortening the overall size of the gun, and making it more comfortable to use.
 
