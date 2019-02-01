@@ -25,3 +25,13 @@ adventures in level design: Wolfenstein 3D ([1](http://ellaguro.blogspot.com/201
 <pic>
 
 This series of blog posts dissecting a few Wolfenstein 3D levels contains surprising insights, covering not just the classic level design goal of pacing, but also narrative and the surprising effect of confusing map layouts and what that says about an ultimately ridiculous game setting.
+
+[Traversal Level Design Principles](http://gamasutra.com/blogs/TravisHoffstetter/20160107/263175/Traversal_Level_Design_Principles.php?print=1) by Travis Hoffstetter
+
+<pic>
+
+Traversal is an oft-overlooked but key component of open-world games. Great traversal means it's fun to get around in the game, and this is just as important as having an interesting world. Good reference article for anyone making a game that involves travelling across a world.
+
+[Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) by Glenn Fiedler (Gaffer On Games)
+
+Normally I'd recommend game devs use a good engine, so you won't need to write a game loop. But for the stubborn engine developers, or just the morbidly curious, this is a really good article on why your homebrew game loop probably sucks. At least you'll know what the heck delta time means.
