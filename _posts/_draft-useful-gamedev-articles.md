@@ -35,3 +35,7 @@ Traversal is an oft-overlooked but key component of open-world games. Great trav
 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) by Glenn Fiedler (Gaffer On Games)
 
 Normally I'd recommend game devs use a good engine, so you won't need to write a game loop. But for the stubborn engine developers, or just the morbidly curious, this is a really good article on why your homebrew game loop probably sucks. At least you'll know what the heck delta time means.
+
+[Build a Bad Guy Workshop - Designing enemies for retro games](http://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php?print=1)
+
+A big list of retro enemy behaviours. Really great reference for retro game devs.
