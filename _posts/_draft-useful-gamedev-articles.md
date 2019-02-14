@@ -45,3 +45,10 @@ A big list of retro enemy behaviours. Really great reference for retro game devs
 This short (~15min) video by Eurogamer analyses Super Mario Bro's world 1-1 with its creators including Miyamoto. In it he explains how they designed the level to teach players the fundamentals of playing platformer games, using escalating challenges and sequences. It's a powerful technique and a superior alternative to overt tutorials and manual instructions.
 
 The same idea has been explored in other places, but this video is a great, concise introduction to the concept.
+
+[Reverse Design articles by The Game Design Forum](http://thegamedesignforum.com/features/featureshome.html)
+
+These are really quality design analyses of classic games. All of them are very good but of particular use are:
+
+- [Final Fantasy 6](http://thegamedesignforum.com/features/reverse_design_ff6_1.html) and the special way it's designed around the dungeon as the unit of content, and how that influences everything from battle durations and how to balance those pesky RPG curves.
+- [Super Mario World](http://thegamedesignforum.com/features/RD_SMW_1.html) is a masterclass in cadence design - how to ramp up difficulty in a challenging yet pleasing way.
