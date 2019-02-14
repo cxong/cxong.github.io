@@ -39,3 +39,9 @@ Normally I'd recommend game devs use a good engine, so you won't need to write a
 [Build a Bad Guy Workshop - Designing enemies for retro games](http://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php?print=1)
 
 A big list of retro enemy behaviours. Really great reference for retro game devs.
+
+[Miyamoto on World 1-1: How Nintendo made Mario's most iconic level](https://youtu.be/zRGRJRUWafY)
+
+This short (~15min) video by Eurogamer analyses Super Mario Bro's world 1-1 with its creators including Miyamoto. In it he explains how they designed the level to teach players the fundamentals of playing platformer games, using escalating challenges and sequences. It's a powerful technique and a superior alternative to overt tutorials and manual instructions.
+
+The same idea has been explored in other places, but this video is a great, concise introduction to the concept.
