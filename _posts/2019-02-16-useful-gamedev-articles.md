@@ -14,32 +14,23 @@ Over the years I've found myself referring back to the same handful of gamedev a
 
 A lot of game devs know how to make good-looking screenshots but the game itself is unreadable because everything looks too busy, too dark or too washed out. This article goes into the visual design theory of why, and really easy ways of improving the readability of your game.
 
-<div style="overflow: auto;">
-
 ### [The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub?embedded=true) by Itay Keren
 
-<img style="float: right;" src="https://lh5.googleusercontent.com/S_XlJsuKm5nDiihKatCTyZm6l7nXSBlEro2HadFE5OT1K9Odddzso7Yl1rIkfiefn-ItoodGuJ7wGUOIjS7nVtix9DbKFCt0Mkl2nTYlciXnUzptfMgCHNd4xTmx0xn2gcq0CTA">
+![](https://lh5.googleusercontent.com/S_XlJsuKm5nDiihKatCTyZm6l7nXSBlEro2HadFE5OT1K9Odddzso7Yl1rIkfiefn-ItoodGuJ7wGUOIjS7nVtix9DbKFCt0Mkl2nTYlciXnUzptfMgCHNd4xTmx0xn2gcq0CTA)
 
 This article contains an encyclopaedic list of 2D side-scroller cameras, many of which can also be applied to 2D games in general. Essential reading for anyone making a 2D camera.
-</div>
-
-<div style="overflow: auto;">
 
 ### adventures in level design: Wolfenstein 3D ([1](http://ellaguro.blogspot.com/2012/05/adventures-in-level-design-wolfenstein.html), [2](http://ellaguro.blogspot.com/2012/04/adventures-in-level-design-wolfenstein_27.html), [3](http://ellaguro.blogspot.com/2012/04/adventures-in-level-design-wolfenstein.html)) by Liz Ryerson
 
-<img style="float: left;" src="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/liz_barrel.png">
+![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/liz_barrel.png)
 
 This series of blog posts dissecting a few Wolfenstein 3D levels contains surprising insights, covering not just the classic level design goal of pacing, but also narrative and the surprising effect of confusing map layouts and what that says about an ultimately ridiculous game setting.
-</div>
-
-<div style="overflow: auto;">
 
 ### [Traversal Level Design Principles](http://gamasutra.com/blogs/TravisHoffstetter/20160107/263175/Traversal_Level_Design_Principles.php?print=1) by Travis Hoffstetter
 
-<img style="float: right;" src="https://www.gamasutra.com/db_area/images/blog/263175/LongLedgeBreakdown.PNG">
+![](https://www.gamasutra.com/db_area/images/blog/263175/LongLedgeBreakdown.PNG)
 
 Traversal is an oft-overlooked but key component of open-world games. Great traversal means it's fun to get around in the game, and this is just as important as having an interesting world. Good reference article for anyone making a game that involves travelling across a world.
-</div>
 
 ### [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) by Glenn Fiedler (Gaffer On Games)
 
@@ -71,14 +62,11 @@ This short (~15min) video by Eurogamer analyses Super Mario Bro's world 1-1 with
 
 The same idea has been explored in other places, but this video is a great, concise introduction to the concept.
 
-<div style="overflow: auto;">
-
 ### [Reverse Design articles by The Game Design Forum](http://thegamedesignforum.com/features/featureshome.html)
 
-<img style="float: left;" src="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/tgdf_smw.png">
+![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/tgdf_smw.png)
 
 These are really quality design analyses of classic games. All of them are very good but of particular use are:
 
 - [Final Fantasy 6](http://thegamedesignforum.com/features/reverse_design_ff6_1.html) and the special way it's designed around the dungeon as the unit of content, and how that influences everything from battle durations and how to balance those pesky RPG curves.
 - [Super Mario World](http://thegamedesignforum.com/features/RD_SMW_1.html) is a masterclass in cadence design - how to ramp up difficulty in a challenging yet pleasing way.
-</div>
