@@ -19,6 +19,7 @@ It's actually a pretty neat font. Most of the letters are just 3x5 pixels (some 
 Let's back up a bit. While I was looking for a free font, I had some tough requirements. The font couldn't be bigger than 3x5 pixels,  otherwise the UI in the game will break. That's a really small size to work with, and most pixel fonts struggle at that size.
 
 > ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/bitmap_fonts.png)
+
 > Most [pixel fonts](https://opengameart.org/content/fonts-0) are around the 8x8 size
 
 I managed to find a contender in a surprising place; someone made some 3x5 fonts for use on [PDAs](https://en.wikipedia.org/wiki/PalmPilot), where screens could be 160x160 pixels total. The font was jokingly called ["Tom Thumb"](https://robey.lag.net/2010/01/23/tiny-monospace-font.html):
