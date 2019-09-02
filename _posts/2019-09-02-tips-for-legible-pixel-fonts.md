@@ -57,7 +57,7 @@ We didn't get to this point with Tom Thumb, but since C-Dogs SDL can handle prop
 
 Here I've just replaced the "w" with one from C-Dogs. Doesn't it look great?
 
-If you're interested in Tom Thumb, both the original and our enhanced version, you can find it here: https://opengameart.org/content/tom-thumb-tiny-ascii-font-3x5
+If you're interested in Tom Thumb, both the original and our enhanced version, you can find it [here on OGA](https://opengameart.org/content/tom-thumb-tiny-ascii-font-3x5).
 It's got a great range actually, with lots of [Latin1 characters](https://en.wikipedia.org/wiki/ISO/IEC_8859-1).
 
 And if you're making pixel fonts yourself, why not use some of these tips?
