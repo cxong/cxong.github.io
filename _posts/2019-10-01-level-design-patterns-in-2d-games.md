@@ -16,27 +16,27 @@ Guide the player through the path they need to take.
 1. Level shape
     | Super Mario Bros. | Super Meat Boy |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smb.png) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/super_meat_boy.png) |
+    | ![Super Mario Bros. stairs to flagpole](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smb.png) | ![Super Meat Boy hills](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/super_meat_boy.png) |
 2. Collectibles (a.k.a. *breadcrumbing*)
     | Donkey Kong Country 2 | Granny Smith |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/dkc2.jpg) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/granny_smith.png) |
+    | ![Donkey Kong Country 2 bananas](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/dkc2.jpg) | ![Granny Smith apples](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/granny_smith.png) |
 3. Enemies
     | Super Mario Bros. 3 | Sonic 3 |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smb3.jpg) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/sonic3.png) |
+    | ![Super Mario Bros. 3 flying shells](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smb3.jpg) | ![Sonic 3 monkey and collectible on tree](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/sonic3.png) |
 4. Environmental cues
     | The Legend of Zelda: A Link to the Past| Pokemon |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/loz_lttp.png) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon.png) |
+    | ![The Legend of Zelda: A Link to the Past bombable walls](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/loz_lttp.png) | ![Pokemon hidden items in conspicuous rocks](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon.png) |
 
 # Safe Zone
 
 Give the players a place safe from hazards so they can stop and think.
 
-| Contra| The Legend of Zelda |
+| Contra | The Legend of Zelda |
 | ------------- | ------------- |
-| ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/contra.png) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/zelda.gif) |
+| ![Contra energy zone flames](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/contra.png) | ![The Legend of Zelda safe doorways in dungeons](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/zelda.gif) |
 
 # Foreshadowing
 
@@ -45,22 +45,28 @@ Partially introduce something new to the player, only to fully reveal it later. 
 1. New hazard that's out of reach
     | Bare Knuckle III | Golden Axe |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/bareknuckle.png)![] | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/goldenaxe_bad.png) |
+    | ![Bare Knuckle III boss in boat](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/bareknuckle.png) | ![Golden Axe bad brothers](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/goldenaxe_bad.png) |
 2. New enemy that foreshadows a boss
-    | Megaman| Contra |
+    | Megaman | Contra |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/megaman.jpeg)![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/megaman_cut.jpeg) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/contra.jpeg) |
-3. New objects that cannot be used until later, to encourage exploration.
-    | Chrono Trigger| Pokemon |
+    | ![Megaman enemy using Cutman weapon](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/megaman.jpeg)![Megaman Cutman boss fight](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/megaman_cut.jpeg) | ![Contra bugger before boss](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/contra.jpeg) |
+3. New objects / obstacles that cannot be used until later, to encourage exploration.
+    | Chrono Trigger | Pokemon |
     | ------------- | ------------- |
-    | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/chrono_trigger.png) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon_tree.png) |
+    | ![Chrono Trigger sealed chests](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/chrono_trigger.png) | ![Pokemon tree](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/pokemon_tree.png) |
 
 # Layering
 
 Combining multiple objects to create new experiences, like a harder challenge.
 
 1. Multiples of the same object
+    | Raiden 2 | Streets of Rage 3 |
+    | ------------- | ------------- |
+    | ![Raiden 2 multiple enemies](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/raiden2.png) | ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/sor3.png) |
 2. Different objects
+    | Jackal | Super Mario World |
+    | ------------- | ------------- |
+    | ![Jackal level 5 boss](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/jackal_boss.png) | ![Super Mario World Banzai Bill and Goombas](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smw.jpg) |
 
 # Branching
 
