@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Level Design Patterns in 2D Games"
-date: 2019-10-01
+date: 2019-10-26
 comments: true
-published: false
+published: true
 ---
 I'm a sucker for level design and design patterns, so when I came across this [article](https://www.gamasutra.com/blogs/AhmedKhalifa/20190610/344344/Level_Design_Patterns_in_2D_Games.php) (and [paper](http://akhalifa.com/documents/level-design-patterns.pdf)) called ["Level Design Patterns in 2D games"](https://www.gamasutra.com/blogs/AhmedKhalifa/20190610/344344/Level_Design_Patterns_in_2D_Games.php), I had to read it! Unfortunately it's a bit wordy, so I thought I'd summarise it and throw in a bunch of pictures! Enjoy!
 
@@ -73,15 +73,36 @@ Combining multiple objects to create new experiences, like a harder challenge.
 Giving the player different choices.
 
 1. Branching with no restrictions - gives the feeling of exploration
+    | Binding of Isaac: Rebirth | Final Fantasy IV |
+    | ------------- | ------------- |
+    | ![Binding of Isaac: Rebirth branching map](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/boi_map.png) | ![Final Fantasy IV airship](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/ff4.jpeg) |
 2. Conditional branching - stimulates curiosity and may require backtracking
+    | Super Metroid | The Legend of Zelda: A Link to the Past |
+    | ------------- | ------------- |
+    | ![Super Metroid coloured doors](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/super_metroid.gif) | ![The Legend of Zelda: A Link to the Past locked doors](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/loz.png) |
 3. Risk-reward branches - encourages players to invest more time in the game by rewarding skill
+    | Excitebike | Sonic 3 |
+    | ------------- | ------------- |
+    | ![Excitebike branching paths](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/excitebike.gif) | ![Sonic 3 extra life](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/s3.png) |
 
 # Pace Breaking
 
 Dramatically changing the pacing of the game - higher or lower tension.
 
 1. Introduce difficulty (e.g. bosses) to increase tension
+    | Lifeforce | 1943 |
+    | ------------- | ------------- |
+    | ![Lifeforce first boss](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/lifeforce.png) | ![1943 boss](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/1943.png) |
 2. Decrease tension to let players enjoy other parts of the game, or learn a new mechanic
+    | Mappy | Street Fighter 2 |
+    | ------------- | ------------- |
+    | ![Mappy bonus round](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/mappy.png) | ![Street Fighter 2 car](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/sf2.jpg) |
 3. Decrease tension to set up for a more dramatic increase later (e.g. just before a boss fight)
+    | Megaman 2 | Chrono Trigger |
+    | ------------- | ------------- |
+    | ![Megaman 2 boss corridor](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/megaman2.png) | ![Chrono Trigger Magus's Lair](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/ctmagus.jpg) |
 4. Controlling tension through level design
+    | Jackal | Gradius 2 |
+    | ------------- | ------------- |
+    | ![Jackal lasers](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/jackal_laser.png) | ![Gradius 2 flares](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/gradius2.png) |
 
