@@ -3,7 +3,7 @@ layout: post
 title: "The Language of Music"
 date: 2020-04-12
 comments: true
-published: false
+published: true
 ---
 For a while there was this idea that music was the universal language. Our human languages may be mutually unintelligible but we could always enjoy each other's music. Music is such an important part of our cultures that we even sent it out on the [Voyager golden record](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/music/).
 
