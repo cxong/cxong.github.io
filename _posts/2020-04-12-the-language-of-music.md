@@ -27,7 +27,7 @@ If we keep going, we'll get the major third as well. These three notes comprise 
 
 So that's pretty cool - the major chord in fact has a mathematical basis, and since math is universal, the major chord is too. If we go further, we find that the pentatonic scale can also be constructed using [just intonation](https://en.wikipedia.org/wiki/Just_intonation), and this is a scale that's very widely used, like in Eastern music, blues, and many of their descendants.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U_ZHsk0-eF0?start=158" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Mathmagic land](https://img.youtube.com/vi/U_ZHsk0-eF0/0.jpg)](https://youtu.be/U_ZHsk0-eF0?t=158)
 
 However if we keep going and look at further harmonics, we notice something odd. In Western music we use the [equal temperament scale](https://en.wikipedia.org/wiki/Equal_temperament) - that is, every tone is separated by the next by an equal ratio. This doesn't happen with harmonics, where if you tried to construct a scale out of natural harmonics, some notes will sound slightly out of tune:
 
