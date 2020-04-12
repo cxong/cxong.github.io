@@ -19,7 +19,7 @@ Music is made up of sound; consider a single note, which is a vibration at a con
 
 Well if you look at a string instrument, the vibrating string creates the sound. Halve the length of the string, and it creates a pitch that is exactly one octave up - it sounds very similar, but is a higher pitch. Play the string at 1/3 (or 2/3) the length, and we get a pitch corresponding to a perfect fifth. 
 
-![overtones](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/overtones.png)
+![overtones](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/overtone.png)
 
 If we keep going, we'll get the major third as well. These three notes comprise the major chord, a very harmonic and uplifting chord very commonly found in many styles of music, especially Western music. Ode to Joy in particular uses predominantly major chords in its main theme, and it's a very powerful piece.
 
