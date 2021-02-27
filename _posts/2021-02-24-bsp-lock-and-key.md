@@ -44,15 +44,15 @@ As the structure of the map is a deeper tree, by finding a critical path that st
 
 Here's where lock-and-key systems come in. Many games, including turn-based RPGs and action games, employ a [lock and key puzzle system](https://tvtropes.org/pmwiki/pmwiki.php/Main/LockAndKeyPuzzle) to get the player to explore and provide a sense of progress. Games like The Legend of Zelda do this particularly well - an analysis of the dungeons shows that most dungeons are quite linear, with few and shallow side branches, but the clever placement of locks and keys makes the dungeons feel more complex. The key to this is the placement of locks before the key that opens them, which provides foreshadowing.
 
-![Zelda dungeon](https://raw.githubusercontent.com/cxong/gomapgen/master/examples/first-zelda-dungeon.png)
+![Zelda dungeon](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/first-zelda-dungeon.png)
 
 It was quite easy to adapt this to the BSP map. As the critical path starts at a leaf node, goes up through parent nodes to the root, then down through child nodes to another leaf node, we can place locks in the intermediate parent nodes, and place keys somewhere in the sibling hierarchy.
 
-![C-Dogs BSP path](https://raw.githubusercontent.com/cxong/gomapgen/master/examples/cdogs_bsp_path.png)
+![C-Dogs BSP path](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/cdogs_bsp_path.png)
 
 Not only do players encounter the locks before keys, because of needing to sidetrack to find the key and then return to the lock, but the map is also made to feel bigger and more complex than otherwise.
 
-![C-Dogs BSP graph](https://raw.githubusercontent.com/cxong/gomapgen/master/examples/cdogs_bsp_graph.png)
+![C-Dogs BSP graph](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/cdogs_bsp_graph.png)
 
 Finishing touches like removed rooms, locked rooms where hidden objectives or powerups are placed, are then added.
 
