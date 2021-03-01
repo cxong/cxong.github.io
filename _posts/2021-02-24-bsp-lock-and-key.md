@@ -59,3 +59,5 @@ Finishing touches like removed rooms, locked rooms where hidden objectives or po
 ![C-Dogs BSP demo](https://user-images.githubusercontent.com/1083215/108699978-154ff480-755a-11eb-9ea4-184aeab888ed.gif)
 
 It's a simple and effective technique!
+
+For more reading about this kind of technique, also visit [Mechanic #004 - Environment Tree](http://www.squidi.net/three/entry.php?id=4)
