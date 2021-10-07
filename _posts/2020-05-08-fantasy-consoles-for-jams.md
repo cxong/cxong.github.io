@@ -15,7 +15,7 @@ One of the most important factors when choosing a platform for jams is developme
 
 Fantasy consoles represent an alternate approach - with limitations and fewer tools at your disposal, there is less time wasted in choosing how to make your game and more time on focusing on gameplay and making something fun. It's easy and quick to put together something playable, so you can start iterating and polishing on top of a solid base.
 
-Here I'll show you my weapon-of-choice: [TIC-80](https://tic.computer).  It's very similar to other popular fantasy consoles, so the experience is transferrable. Within the same tool, you can:
+Here I'll show you my weapon-of-choice: [TIC-80](https://tic80.com).  It's very similar to other popular fantasy consoles, so the experience is transferrable. Within the same tool, you can:
 
 - Code in [Lua*](# "TIC-80 supports a few other languages, like JavaScript, Moonscript, Wren and Fennel"), against a simple sprite-and-tile based 2D API
 - Draw sprites and tiles using a 16-colour palette
@@ -27,7 +27,7 @@ Here I'll show you my weapon-of-choice: [TIC-80](https://tic.computer).  It's ve
 
 ## Coding
 
-![TIC-80 code editor](https://raw.githubusercontent.com/wiki/nesbox/tic.computer/images/code.gif)
+![TIC-80 code editor](https://raw.githubusercontent.com/wiki/nesbox/tic80.com/images/code.gif)
 
 TIC-80 primarily uses Lua for coding, but you get other language choices - Moonscript, JavaScript, Wren and Fennel. I like Moonscript the best because it's like Lua without the bad parts. Its class syntax is excellent, something that sucks in Lua.
 
@@ -41,7 +41,7 @@ This way, the entire game fits in a single text file, even graphics and sound, w
 
 TIC-80 has a mainly sprite-based 2D API, with built-in sprite editor and tilemap editor. They're nothing to write home about, and get the job done.
 
-![TIC-80 sprite editor](https://raw.githubusercontent.com/wiki/nesbox/tic.computer/images/sprite.gif)
+![TIC-80 sprite editor](https://raw.githubusercontent.com/wiki/nesbox/tic80.com/images/sprite.gif)
 
 Worth mentioning are the shape drawing functions available. In addition to the expected lines, rectangles and circles, you can also draw textured triangles, and which some enterprising folks have made 3D engines out of this. Not that you should do this for your jams, but they're nifty tools to have. Check out the [API](https://github.com/nesbox/TIC-80/wiki#functions) for more details.
 
@@ -79,8 +79,8 @@ So preparing a jam submission is a cinch. What might take an hour messing around
 ## Try it out!
 That's it! Fantasy consoles are so simple to learn, use, and are perfect for jams. Here are some games I've made with TIC-80:
 
-- [Dunkman](https://tic.computer/play?cart=1179)
-- [Grow Quickly](https://tic.computer/play?cart=964)
+- [Dunkman](https://tic80.com/play?cart=1179)
+- [Grow Quickly](https://tic80.com/play?cart=964)
 
 And you can even take a look at the source code and how the game was put together - these fantasy consoles are editor-and-player all-in-one.
 
