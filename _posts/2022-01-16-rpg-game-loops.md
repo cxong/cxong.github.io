@@ -22,6 +22,7 @@ Perhaps there wouldn't be much of a game if there no reason to enter the dungeon
 But RPGs, especially Western ones, had lots of side quests, big and small, which give players a more immediate reason for fighting. They could be as mundane as killing 20 rats, or as involved as pulling off a heist.
 
 > ![the ultimate heist](https://static.wikia.nocookie.net/elderscrolls/images/c/c0/The_Ultimate_Heist_Elder_Scroll.png/revision/latest/scale-to-width-down/699?cb=20130925090055)
+> 
 > In Oblivion, The Ultimate Heist is a [7-part quest](https://en.uesp.net/wiki/Oblivion:The_Ultimate_Heist) that involves stealing a unique item from the most heavily guarded location in the game.
 
 Quests are extremely flexible and are only limited by the quest writer's imagination. They can direct the player to arbitrary places and perform arbitrary tasks, thereby showing parts of the game that the designer wants. In return, players want the quests to make sense in the game world, and reward them with game lore in addition to mechanical rewards. Players tend to look down on lazy, highly mechanical quests such as "kill X creatures" or "fetch some item".
@@ -40,7 +41,33 @@ Health is a great energy system because the penalties for losing it are harsh - 
 
 Loot is a big part of many RPGs. Many older RPGs had limits on how many things a character to carry, due to technical constraints. But others had limits deliberately, so that characters could not loot items indefinitely, and must return to town to sell excess loot.
 
-*Diablo*, more than any other RPG, [focuses on inventory management and looting to drive](https://www.gamedeveloper.com/design/a-night-with-the-devil) its game loop. A typical dungeon run will have the player pick up mostly useless items, return to town to sell them off, and only occasionally do other things typically done in RPG towns - heal and recover, buy restoration items, upgrade equipment. This focus on items was done to focus the game on the excitement of finding rare items.
+*Diablo*, more than any other RPG, [focuses on inventory management and looting](https://www.gamedeveloper.com/design/a-night-with-the-devil) to drive its game loop. A typical dungeon run will have the player pick up mostly useless items, return to town to sell them off, and only occasionally do other things typically done in RPG towns - heal and recover, buy restoration items, upgrade equipment. This focus on items was done to focus the game on the excitement of finding rare items.
+
+![loot loop](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/loot_loop.jpg)
+
+Other RPGs, like *Fallout*, *The Elder Scrolls* and various *Dungeons and Dragons*-themed CRPGs use weight limits, coupled with the fact that stronger characters can carry more items, for more flavour.
+
+As an alternative to energy systems, encumbrance has the advantage of not harshly penalising the player, but still simulating the fatigue of adventuring that feels thematically apt. The obvious downside is that the encumbrance system needs to be designed just right - the game must not give the player too much or too few loot items - otherwise, in the case of too much loot, it can make players feel obligated to return to town prematurely to avoid missing out on selling loot.
 
 # Crafting and Identification
 
+Crafting is a game mechanic that has grown popular in RPGs over time. It adds flavour to the game world, but also acts as an additional force on the RPG game loop, by making loot more valuable if it is taken outside the dungeon.
+
+Consider in [*The Witcher*](https://witcher.fandom.com/wiki/The_Witcher_alchemy), where alchemical ingredients are usually harvested in the wilderness, but the player must [return to a safe resting zone](https://witcher.fandom.com/wiki/Meditation) in order to make potions, oils or bombs.
+
+![craft loop](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/craft_loop.jpg)
+
+As a general rule, crafting ingredients are virtually useless on their own, but are also hard to gather unless the player travels to many different locations. This creates a weak, bi-directional pull in the game loop - players are encouraged to return to town to create useful crafting items, but also to travel to different locations to gather more ingredients.
+
+Incidentally, [item identification](https://tvtropes.org/pmwiki/pmwiki.php/Main/UnknownItemIdentification) - with roots going all the way back to table-top RPGs - is somewhat similar to crafting, in the sense that unidentified items are useless, giving an incentive to return to town to identify them and make them useful.
+
+Compared to energy systems and encumbrance, the influence of crafting on player behaviour is very weak, since crafting ingredients are usually very lightweight, meaning players are free to hoard them and not go back to town just to consume those ingredients. Many crafting systems are secondary in nature, so that players can often ignore crafting altogether.
+
+# Afterthoughts
+
+After examining these different mechanics, all designed to keep players in a hamster-wheel-like loop of town-dungeon-town-dungeon, it may seen very arbitrary. Indeed, many RPGs have added quality-of-life conveniences designed to shorten this loop, reduce its urgency, or in some cases to skip it altogether. These include things such as:
+
+- Fast travel / [town portals](https://diablo.fandom.com/wiki/Town_Portal)
+- [*Torchlight's* pets](https://torchlight.fandom.com/wiki/Pets_(T1)) who can return to town to sell loot and buy potions on your behalf
+- Item stashes, [pack mules](https://dungeonsiege.fandom.com/wiki/Pack_mule) to carry more loot
+- Special items that replace town functions (full-healing items, identify scrolls)
