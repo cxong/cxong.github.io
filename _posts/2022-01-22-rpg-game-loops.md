@@ -21,7 +21,7 @@ Perhaps there wouldn't be much of a game if there no reason to enter the dungeon
 
 But RPGs, especially Western ones, have lots of side quests, big and small, which give players a more immediate reason for fighting. They could be as mundane as killing 20 rats, or as involved as pulling off a heist.
 
-> ![the ultimate heist](https://static.wikia.nocookie.net/elderscrolls/images/c/c0/The_Ultimate_Heist_Elder_Scroll.png/revision/latest/scale-to-width-down/699?cb=20130925090055)
+> ![the ultimate heist](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/the_ultimate_heist.png)
 > 
 > In Oblivion, The Ultimate Heist is a [7-part quest](https://en.uesp.net/wiki/Oblivion:The_Ultimate_Heist) that involves stealing a unique item from the most heavily guarded location in the game.
 
