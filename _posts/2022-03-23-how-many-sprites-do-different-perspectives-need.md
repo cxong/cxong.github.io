@@ -11,9 +11,14 @@ Choosing the right game perspective has a big impact on your game's art budget. 
 
 # Summary
 
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 | Perspective | Sprites Needed | Genres | Examples |
 | --- | --- | --- | --- |
-| Top-down (vertical) | 1x | action, arcade, puzzle, vertical scrollers | ![Galaxian][7] ![[Centipede][8]](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Centipede) [![GTA 2][1]][2] |
+| Top-down (vertical) | 1x | action, arcade, puzzle, vertical scrollers | ![Galaxian][7] [![Centipede][8]](https://www.retrogamer.net/retro_games80/centipede/) [![GTA 2][1]][2] |
 | Side view | 1-1.5x | beat-em-up, fighting, infinite runner, metroidvania, platformer, run-and-gun, side-scrolling | [![Knytt][12]][13] ![Mighty Final Fight](https://upload.wikimedia.org/wikipedia/en/1/15/Mighty_Final_Fight_gameplay.png) ![Flashback](https://upload.wikimedia.org/wikipedia/en/6/6e/Flashback_-_The_Quest_for_Identity.png) |
 | Isometric (4 directions) | 2-2.5x | business simulation, turn based strategy, turn based tactics | ![Super Mario RPG][11] ![Theme Hospital][14] ![Tactics Ogre](https://upload.wikimedia.org/wikipedia/en/0/09/SFC_Tactics_Ogre_-_Let_Us_Cling_Together.png) |
 | Oblique | 3-3.5x | action RPG, overhead shooter, RPG, RTS | [![Seiken Densetsu 3][9]][10] ![Z](https://upload.wikimedia.org/wikipedia/en/1/14/Linux.Debian.ZED.0.1.jpg) ![Zelda Four Swords](https://images.gnwcdn.com/articles/a/5/7/6/8/7/1.jpg/EG11/resize/270x-1/quality/75/format/jpg) |
@@ -114,16 +119,16 @@ You can use either oblique or isometric perspectives for buildings; oblique may 
 [5]: https://i.pinimg.com/564x/69/b3/52/69b352f309089cfc90b53db325697171.jpg
 [6]: https://pin.it/5i8n9Ae
 [7]: https://upload.wikimedia.org/wikipedia/en/0/09/Galaxian.png
-[8]: https://static.tvtropes.org/pmwiki/pub/images/centipede.png
+[8]: https://www.retrogamer.net/wp-content/uploads/2013/10/centipede_arcade.png
 [9]: https://www.fantasyanime.com/mana/screenshots/som2shot11.png
 [10]: https://www.fantasyanime.com/mana/som2shots.htm
 [11]: https://i0.wp.com/mediianews.com/wp-content/uploads/2022/02/Now-is-the-perfect-time-to-complete-Super-Mario-RPG.jpg?zoom=1&resize=280,160&ssl=1
-[12]: https://static.wikia.nocookie.net/nifflas/images/5/5b/Knytt.png/revision/latest?cb=20140831104006
-[13]: https://nifflas.fandom.com/wiki/Knytt
+[12]: https://static.tvtropes.org/pmwiki/pub/images/1-image1.png
+[13]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Knytt
 [14]: https://upload.wikimedia.org/wikipedia/en/a/a3/ThemeHospital.gif
 [15]: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a59423b1-d1a3-4776-a3e4-5ffe0bfc77bf/d793d5w-99b034d3-0fd9-4d14-94e8-781502d4d20c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1OTQyM2IxLWQxYTMtNDc3Ni1hM2U0LTVmZmUwYmZjNzdiZlwvZDc5M2Q1dy05OWIwMzRkMy0wZmQ5LTRkMTQtOTRlOC03ODE1MDJkNGQyMGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n1Cp8rcx1DvM9AYWMzHU11u-OVCbOoyFtwozBNkaVFc
 [16]: https://www.deviantart.com/luis-mortalkombat14/art/super-contra-2D-6-boss-438536804
 [17]: https://upload.wikimedia.org/wikipedia/en/5/55/ARC_Gauntlet_II.png?1648037058741
-[18]: https://t.gamesnostalgia.com/screenshots/a/l/alien-breed/21591_small.jpg
-[19]: https://gamesnostalgia.com/screenshot/alien-breed/21591
+[18]: https://www.lemonamiga.com/games/media/screens/full/alien_breed/alien_breed_04.png
+[19]: https://www.lemonamiga.com/games/details.php?id=55
 [20]: https://upload.wikimedia.org/wikipedia/en/3/3d/Syndicate.png
