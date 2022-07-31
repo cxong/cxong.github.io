@@ -131,4 +131,4 @@ You can use either oblique or isometric perspectives for buildings; oblique may 
 [17]: https://upload.wikimedia.org/wikipedia/en/5/55/ARC_Gauntlet_II.png?1648037058741
 [18]: https://www.lemonamiga.com/games/media/screens/full/alien_breed/alien_breed_04.png
 [19]: https://www.lemonamiga.com/games/details.php?id=55
-[20]: https://upload.wikimedia.org/wikipedia/en/3/3d/Syndicate.png
+[20]: https://upload.wikimedia.org/wikipedia/en/6/62/Syndicate_screenshot.png
