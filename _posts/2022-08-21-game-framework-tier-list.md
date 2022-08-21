@@ -60,6 +60,8 @@ I haven't tried the following frameworks but they are interesting and I would de
 - **OpenRA**: Red Alert has a huge following, but the makers of this open-source remake had the foresight to make the engine generic so that it can support many other RTS games. Now OpenRA drives many mods including [KKND](https://github.com/IceReaper/OpenKrush), Dune 2000, Tiberian Sun and Red Alert 2. Having tried my hand at making RTS games before, I know how much work there is in making a playable game in this genre, so OpenRA does most of the hard work for you.
 - **RPGMaker**: For making a retro RPG game there is no better way. Similar to making RTS games, there is a surprising amount of work in making the basic mechanics, so a tool like RPGMaker lets you focus on the fun parts - character design, story writing, map editing - than the mechanics and UI. I've seen alternatives but none approach the quality of RPGMaker. I'm not really interested in making RPGs myself but if I were, this would be a solid choice.
 
+I have no experience with these frameworks but if they work as well as they seem, they could all be Tier S or A.
+
 ## Final Thoughts
 
 Game frameworks have come a long way and yet in many ways still have a long way to go. On the one hand there are lots of cool specialty frameworks making it easier to make certain types of games than ever before. On the other, industry-stalwarts like Unity are still a bug-ridden mess to use, which is very disappointing given how popular they are and how much better they could be.
