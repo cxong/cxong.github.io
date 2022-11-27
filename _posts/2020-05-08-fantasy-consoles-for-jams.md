@@ -27,7 +27,7 @@ Here I'll show you my weapon-of-choice: [TIC-80](https://tic80.com).  It's very 
 
 ## Coding
 
-![TIC-80 code editor](https://raw.githubusercontent.com/wiki/nesbox/tic80.com/images/code.gif)
+![TIC-80 code editor](https://raw.githubusercontent.com/wiki/nesbox/tic.computer/images/code.gif)
 
 TIC-80 primarily uses Lua for coding, but you get other language choices - Moonscript, JavaScript, Wren and Fennel. I like Moonscript the best because it's like Lua without the bad parts. Its class syntax is excellent, something that sucks in Lua.
 
@@ -41,7 +41,7 @@ This way, the entire game fits in a single text file, even graphics and sound, w
 
 TIC-80 has a mainly sprite-based 2D API, with built-in sprite editor and tilemap editor. They're nothing to write home about, and get the job done.
 
-![TIC-80 sprite editor](https://raw.githubusercontent.com/wiki/nesbox/tic80.com/images/sprite.gif)
+![TIC-80 sprite editor](https://raw.githubusercontent.com/wiki/nesbox/tic.computer/images/sprite.gif)
 
 Worth mentioning are the shape drawing functions available. In addition to the expected lines, rectangles and circles, you can also draw textured triangles, and which some enterprising folks have made 3D engines out of this. Not that you should do this for your jams, but they're nifty tools to have. Check out the [API](https://github.com/nesbox/TIC-80/wiki#functions) for more details.
 
