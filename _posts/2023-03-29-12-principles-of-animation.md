@@ -102,7 +102,7 @@ Timing refers to how many frames an animation should have, to make it seem faste
 
 [Easing](https://easings.net) refers to functions that change the rate at which a property changes. We can apply it to motion among many other things. In the context of motion, most games just use a constant motion, or simple acceleration. But we can go so much further than that, to achieve cool effects, like make things look bouncy, wobbly, or feel floaty or aggressive. One simple way we apply it here is to add an elastic skew animation when Ticcy suddenly stops:
 
-![Ticcy blink](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/ticcy-blink.gif)
+![Ticcy stop suddenly](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/ticcy-stop.gif)
 
 I mentioned earlier that objects starting and stopping on a dime is unrealistic. Here with an elastic easing function, we can stop Ticcy on a dime, but give the illusion of inertia. The body bends forward, before snapping back and forth. It's a cheap way to make something that should be unnatural feel natural, as well as add more character to Ticcy. Perhaps Ticcy is made of rubber?
 
