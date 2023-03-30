@@ -124,6 +124,6 @@ Ticcy's character design is already very appealing. It has simple features and a
 
 # Final Thoughts
 
-I hope these techniques have inspired you to spice up your game characters. Every demo shown here is available in this interactive page: https://cxong.github.io/tic-80-examples/character-animation
+I hope these techniques have inspired you to spice up your game characters. Every demo shown here is available in this interactive page: <https://cxong.github.io/tic-80-examples/character-animation>
 
 Let's see your cool animations!
