@@ -42,7 +42,7 @@ It turns out we could make one more improvement: when there's an existing path, 
 
 Nice! Now we see some clear heavily-travelled avenues. By observing the paths, we can also make sense of where the important locations are. Cool huh?
 
-You can find this map generator here: https://github.com/cxong/gomapgen under the `village` option. It's also where I make lots of different map generators for fun.
+You can find this map generator here: <https://github.com/cxong/gomapgen> under the `village` option. It's also where I make lots of different map generators for fun.
 
 Hope you enjoy!
 
