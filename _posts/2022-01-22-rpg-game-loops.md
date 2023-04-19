@@ -15,11 +15,11 @@ What's interesting is how different RPGs use mechanics to compel players through
 
 # Quests ❗️
 
-Perhaps there wouldn't be much of a game if there no reason to enter the dungeon where you can get killed. Most RPGs would have a main quest, the [call to adventure](https://en.wikipedia.org/wiki/Hero%27s_journey#The_Call_to_Adventure) that compels the player to venture forth.
+There wouldn't be much of a game if there's no reason to enter the dungeon where you can get killed. Most RPGs have a **main quest**, the [call to adventure](https://en.wikipedia.org/wiki/Hero%27s_journey#The_Call_to_Adventure) that compels the player to venture forth.
 
 ![yendor](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/yendor.jpg)
 
-But RPGs, especially Western ones, have lots of side quests, big and small, which give players a more immediate reason for fighting. They could be as mundane as killing 20 rats, or as involved as pulling off a heist.
+But RPGs, especially Western ones, have lots of **side quests**, big and small, which give players a more immediate reason for fighting. They could be as mundane as killing 20 rats, or as involved as pulling off a heist.
 
 > ![the ultimate heist](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/the_ultimate_heist.png)
 > 
@@ -37,13 +37,13 @@ This is where dungeon fighting consumes a form of energy, which is replenished b
 
 Health is an unforgiving energy system because the penalties for losing it are harsh - your party dies and you lose the game! But it is not the only type of energy, and the penalties don't need to be as harsh for it to work. **Mana**, or MP, is also common. For magic-focused characters, fighting without mana is much harder, which is a strong incentive for returning to town.
 
-A side note on restoration items: they can alleviate the harshness of energy penalties, but usually they are expensive, so that they don't completely overwhelm the energy system.
+A side note on restoration items: they can alleviate the harshness of energy penalties, but usually they are expensive, so that they don't completely bypass the energy system.
 
 # Encumbrance 🧳
 
 Loot is a big part of many RPGs. Many older RPGs had limits on how many things a character could carry, due to technical constraints. But others set limits deliberately, so that characters could not loot items indefinitely, and must return to town to sell excess loot.
 
-*Diablo*, more than any other RPG, [focuses on inventory management and looting](https://www.gamedeveloper.com/design/a-night-with-the-devil) to drive its game loop. A typical dungeon run will have the player pick up mostly useless items, return to town to sell them off, and only occasionally do other things typically done in RPG towns - heal and recover, buy restoration items, upgrade equipment. This focus on looting was done to focus the game on the excitement of finding rare items.
+*Diablo* in particular, [focuses on inventory management and looting](https://www.gamedeveloper.com/design/a-night-with-the-devil) to drive its game loop. A typical dungeon run will have the player pick up mostly useless items, return to town to sell them off, and only occasionally do other things typically done in RPG towns - heal and recover, buy restoration items, upgrade equipment. This focus on looting was done to focus the game on the excitement of finding rare items.
 
 ![loot loop](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/loot_loop.jpg)
 
@@ -78,7 +78,7 @@ So why do we even need this loop, why not keep the player in combat the whole ti
 
 ## Delayed Gratification
 
-A lot of the "pull"-type mechanics give the player something to look forward to, by delaying the immediate reward. Items that must be crafted elsewhere, rare items that need to be fixed or unlocked, completed quest rewards that need to be completed, these all act as mini-cliffhangers, something to keep the player in the game, or for them to look forward to once they return.
+A lot of the "pull"-type mechanics give the player something to look forward to, by delaying the immediate reward. Items that must be crafted elsewhere, rare items that need to be fixed or unlocked, quest rewards that need to be collected, these all act as mini-cliffhangers, something to keep the player in the game, or for them to look forward to once they return.
 
 ## Pacing
 
