@@ -17,7 +17,7 @@ Guide the player through the path they need to take.
 
     | Super Mario Bros. | Super Meat Boy |
     | ------------- | ------------- |
-    | ![Super Mario Bros. stairs to flagpole](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smb.png) | ![Super Meat Boy hills](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/super_meat_boy.png) |
+    | ![Super Mario Bros. stairs to flagpole](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/smb.png "testing") | ![Super Meat Boy hills](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/super_meat_boy.png) |
     {:.table-bordered}
 
 2. Collectibles (a.k.a. *breadcrumbing*)
