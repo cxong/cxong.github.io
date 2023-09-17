@@ -3,7 +3,7 @@ layout: post
 title: A review of Golden Age RTS Music
 date: 2023-09-17
 comments: true
-published: false
+published: true
 ---
 
 I love games and music, and one of my favourite game genres is RTS. I don't know which led to the other, but one thing's for sure: **RTS music slaps**. I would argue that it is one of the best genres for awesome, listenable music that you can put in your playlist. For example, RPGs have great music too but their soundtracks are too eclectic, as they are strongly themed to specific levels or characters. Action games can also have great music but they are very situational, with a mix of stealth, action and boss tracks. RTS games have a perfect blend of strong yet consistent themes, and the gameplay gives the music plenty of space to develop itself, not being dictated by the action onscreen.
