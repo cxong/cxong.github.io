@@ -67,3 +67,10 @@ blockquote {
     font-size: 14px;
     font-style: italic;
 }
+
+.infobox {
+    width: 30%;
+    padding: 10px;
+    float: right;
+    background-color: white;
+}
