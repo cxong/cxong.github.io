@@ -58,10 +58,10 @@ Real life big cities are incredibly complex places. They are where people live, 
     href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/mitsumine.jpeg"
     data-fancybox="gallery-complex"
     data-caption="Another Shinto shrine sandwiched by apartment buildings.">
-![Mitsumine Shrine](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/shingen-ji.jpeg)
+![Mitsumine Shrine](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/mitsumine_th.jpeg)
 </a>
 <a
-    href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/mitsumine.jpeg"
+    href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/shingen-ji.jpeg"
     data-fancybox="gallery-complex"
     data-caption="Religious buildings like this temple are used by the local residents who live nearby, but the architectural style is completely different.">
 ![Shingen-ji](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/shingen-ji_th.jpeg)
