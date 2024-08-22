@@ -55,6 +55,17 @@ ul {
     max-width: 100%;
 }
 
+.feed {
+    background: #282c37;
+    color: #9baec8;
+    padding: 8px;
+    overflow-wrap: break-word;
+}
+
+.feed ol {
+    padding-left: 12px;
+}
+
 .author {
     color: #ee4444;
 }
