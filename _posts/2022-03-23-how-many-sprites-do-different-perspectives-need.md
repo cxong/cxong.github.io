@@ -5,6 +5,7 @@ date: 2022-03-23
 comments: true
 published: true
 ---
+
 I love 2D sprite-based games; they are easy to read and a great way to showcase beautiful art and character designs. A major downside is that drawing each sprite is a significant amount of work, and it can grow exponentially depending on the [game perspective](https://tvtropes.org/pmwiki/pmwiki.php/Main/VariousVideoGameViews)!
 
 Choosing the right game perspective has a big impact on your game's art budget. Here's a rundown of different 2D game perspectives and how many different sprites you need to budget for.
@@ -16,13 +17,14 @@ table, th, td {
   border: 1px solid black;
 }
 </style>
-| Perspective | Sprites Needed | Genres | Examples |
-| --- | --- | --- | --- |
-| Top-down (vertical) | 1x | action, arcade, puzzle, vertical scrollers | ![Galaxian][7] [![Centipede][8]](https://www.retrogamer.net/retro_games80/centipede/) [![GTA 2][1]][2] |
-| Side view | 1-1.5x | beat-em-up, fighting, infinite runner, metroidvania, platformer, run-and-gun, side-scrolling | [![Knytt][12]][13] ![Mighty Final Fight](https://upload.wikimedia.org/wikipedia/en/1/15/Mighty_Final_Fight_gameplay.png) ![Flashback](https://upload.wikimedia.org/wikipedia/en/6/6e/Flashback_-_The_Quest_for_Identity.png) |
-| Isometric (4 directions) | 2-2.5x | business simulation, turn based strategy, turn based tactics | ![Super Mario RPG][11] ![Theme Hospital][14] ![Tactics Ogre](https://upload.wikimedia.org/wikipedia/en/0/09/SFC_Tactics_Ogre_-_Let_Us_Cling_Together.png) |
-| Oblique | 3-3.5x | action RPG, overhead shooter, RPG, RTS | [![Seiken Densetsu 3][9]][10] ![Z](https://upload.wikimedia.org/wikipedia/en/1/14/Linux.Debian.ZED.0.1.jpg) ![Zelda Four Swords](https://images.gnwcdn.com/articles/a/5/7/6/8/7/1.jpg/EG11/resize/270x-1/quality/75/format/jpg) |
-| 8-directional | 5-5.5x | 8-directional shooter, real time tactics | ![Gauntlet 2][17] [![Super Contra][15]][16] ![Syndicate][20] |
+
+| Perspective              | Sprites Needed | Genres                                                                                       | Examples                                                                                                                                                                                                                                              |
+| ------------------------ | -------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Top-down (vertical)      | 1x             | action, arcade, puzzle, vertical scrollers                                                   | ![Galaxian][7] [![Centipede][8]](https://www.mobygames.com/game/141/centipede/) [![GTA 2][1]][2]                                                                                                                                                      |
+| Side view                | 1-1.5x         | beat-em-up, fighting, infinite runner, metroidvania, platformer, run-and-gun, side-scrolling | [![Knytt][12]][13] ![Mighty Final Fight](https://upload.wikimedia.org/wikipedia/en/1/15/Mighty_Final_Fight_gameplay.png) ![Flashback](https://upload.wikimedia.org/wikipedia/en/6/6e/Flashback_-_The_Quest_for_Identity.png)                          |
+| Isometric (4 directions) | 2-2.5x         | business simulation, turn based strategy, turn based tactics                                 | ![Super Mario RPG][11] ![Theme Hospital][14] ![Tactics Ogre](https://upload.wikimedia.org/wikipedia/en/0/09/SFC_Tactics_Ogre_-_Let_Us_Cling_Together.png)                                                                                             |
+| Oblique                  | 3-3.5x         | action RPG, overhead shooter, RPG, RTS                                                       | [![Seiken Densetsu 3][9]][10] ![Z](https://upload.wikimedia.org/wikipedia/en/1/14/Linux.Debian.ZED.0.1.jpg) ![Zelda Four Swords](https://cdn.mobygames.com/screenshots/15718762-the-legend-of-zelda-four-swords-adventures-gamecube-whats-going-.png) |
+| 8-directional            | 5-5.5x         | 8-directional shooter, real time tactics                                                     | ![Gauntlet 2][17] [![Super Contra][15]][16] ![Syndicate][20]                                                                                                                                                                                          |
 
 # Top-down: 1x
 
@@ -96,15 +98,15 @@ The substantial artwork cost means you should carefully consider workarounds:
 
 1. Allow players to move diagonally, but only draw 4 directions
 
-> <iframe src="https://assets.pinterest.com/ext/embed.html?id=60446819988701257" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
+   > <iframe src="https://assets.pinterest.com/ext/embed.html?id=60446819988701257" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
 
 2. Use the perfectly vertical top-down perspective, letting your renderer or image editor do the rotation for you
 
-> [![Alien Breed][18]][19]
+   > [![Alien Breed][18]][19]
 
 3. Use 3D-rendered sprites, which also lets you add arbitrary number of angles
 
-> ![Diablo](https://upload.wikimedia.org/wikipedia/en/2/20/Diabloscreen.jpg)
+   > ![Diablo](https://upload.wikimedia.org/wikipedia/en/2/20/Diabloscreen.jpg)
 
 This perspective only makes sense for games where showing the 8 directions is really important, like **8-directional shooters**.
 
@@ -119,10 +121,10 @@ You can use either oblique or isometric perspectives for buildings; oblique may 
 [5]: https://i.pinimg.com/564x/69/b3/52/69b352f309089cfc90b53db325697171.jpg
 [6]: https://pin.it/5i8n9Ae
 [7]: https://upload.wikimedia.org/wikipedia/en/0/09/Galaxian.png
-[8]: https://www.retrogamer.net/wp-content/uploads/2013/10/centipede_arcade.png
+[8]: https://cdn.mobygames.com/screenshots/16426115-centipede-arcade-red-mushrooms-and-centipedes.png
 [9]: https://www.fantasyanime.com/mana/screenshots/som2shot11.png
 [10]: https://www.fantasyanime.com/mana/som2shots.htm
-[11]: https://i0.wp.com/mediianews.com/wp-content/uploads/2022/02/Now-is-the-perfect-time-to-complete-Super-Mario-RPG.jpg?zoom=1&resize=280,160&ssl=1
+[11]: https://cdn.mobygames.com/screenshots/16028442-super-mario-rpg-legend-of-the-seven-stars-snes-chancelors-palace.png
 [12]: https://static.tvtropes.org/pmwiki/pub/images/1-image1.png
 [13]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Knytt
 [14]: https://upload.wikimedia.org/wikipedia/en/a/a3/ThemeHospital.gif
