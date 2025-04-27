@@ -11,6 +11,9 @@ layout: default
         {% endif %}
         <div class="content">
             {{ post.excerpt }}
+            {% if post.excerpt != post.content %}
+                <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+            {% endif %}
         </div>
     </div>
 </div>
