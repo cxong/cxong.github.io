@@ -9,14 +9,14 @@ published: true
 Everyone loves game maps. Especially when it comes to [large game worlds](https://cxong.github.io/2023/11/big-without-scale), there's nothing quite like looking at a mesmerising map filled with awesome detail, and imagine (re)inhabiting parts of this virtual world. When studying a map of a game that I've spent dozens if not hundreds of hours in, I often get a sense of both familiarity and strangeness. It's not just that the map shows a different perspective of the same world I experienced as a game avatar, but that the map misrepresents the player experience world in fundamental ways.
 
 <a
-    href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/magus_map_drawn.png"
+    href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/magus_map_drawn.jpg"
     data-fancybox="gallery-map">
-![Magus game map, drawn](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/magus_map_drawn_th.png)
+![Magus game map, drawn](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/magus_map_drawn_th.jpg)
 </a>
 <a
     href="https://raw.githubusercontent.com/cxong/MagusPreservation/master/map.png"
     data-fancybox="gallery-map">
-![Magus game map](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/magus_map_th.jpg)
+![Magus game map](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/magus_map_th.png)
 </a>
 
 > My love of game maps drove me to hand-draw this map of the obscure DOS roguelike _Magus_ recently. From <https://mastodon.gamedev.place/@congusbongus/111900901099931635>
@@ -72,7 +72,7 @@ So how do you use this knowledge to design better games? There are lots of possi
 
 - Distance is not so much a function of space, but time and effort taken to travel to a location. If a destination involves a long and dangerous journey away from a safe hub, it can feel especially remote. Consider placing big rewards or secrets in such locations - finding them can feel especially rewarding.
 
-<a href="https://static.wikia.nocookie.net/gtawiki/images/8/86/LosSantosTower-GTASA-Rooftop.png/revision/latest/scale-to-width-down/1000?cb=20130309194328"><img src="https://static.wikia.nocookie.net/gtawiki/images/8/86/LosSantosTower-GTASA-Rooftop.png/revision/latest/scale-to-width-down/1000?cb=20130309194328" alt="San Andreas Los Santos Tower" width="400px" /></a>
+<a href="https://static.wikia.nocookie.net/gtawiki/images/8/86/LosSantosTower-GTASA-Rooftop.png/revision/latest/scale-to-width-down/1000"><img src="https://static.wikia.nocookie.net/gtawiki/images/8/86/LosSantosTower-GTASA-Rooftop.png/revision/latest/scale-to-width-down/1000" alt="San Andreas Los Santos Tower" width="400px" /></a>
 
 - Letting the player unlock more paths (in the form of waypoints or shortcuts) is an interesting way to provide a sense of progress. It gives the player the feeling of reshaping the world for their convenience, giving them a sense of belonging to the world.
 
