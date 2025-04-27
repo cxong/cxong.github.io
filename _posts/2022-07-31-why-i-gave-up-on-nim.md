@@ -5,11 +5,14 @@ date: 2022-07-31
 comments: true
 published: true
 ---
+
 For a number of years, I've been looking for a great new programming language to make games with. When I came across [nim](https://nim-lang.org), it felt like a breath of fresh air and my search seemed to be over. However, after trying it for a month or so, I have sadly concluded that it's not the right language for me.
 
 # Disclaimer
 
 Nim is a great language, in fact out of the languages that have come onto the scene in the last decade or so, nim is one of the more promising. This is not meant as a critique of the language overall, only that in its current state, and for my purposes, it is not the right choice.
+
+<!--more-->
 
 # Why look for a new language?
 

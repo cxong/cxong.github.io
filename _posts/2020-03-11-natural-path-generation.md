@@ -5,9 +5,10 @@ date: 2020-03-11
 comments: true
 published: true
 ---
+
 Random level generators are great fun to make; there's nothing quite like coding an algorithm that creates endless variations of maps and dungeons.
 
-A typical random map generator might place rooms randomly around the place and connect them with corridors. Then the map might be filled randomly with inhabitants - monsters, treasure, NPCs and so on. This is simple and effective, giving players unpredictable yet interesting encounters in games. It's an evergreen approach starting from [rogue (1980)](https://en.wikipedia.org/wiki/Rogue_(video_game)) all the way up to the latest indie dungeon crawlers.
+A typical random map generator might place rooms randomly around the place and connect them with corridors. Then the map might be filled randomly with inhabitants - monsters, treasure, NPCs and so on. This is simple and effective, giving players unpredictable yet interesting encounters in games. It's an evergreen approach starting from [rogue (1980)](<https://en.wikipedia.org/wiki/Rogue_(video_game)>) all the way up to the latest indie dungeon crawlers.
 
 [![Rooms and Mazes](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/rooms_and_mazes.gif)](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
 
@@ -18,6 +19,8 @@ So I thought a fun experiment would be to make a random level generator that bui
 First, I start with a simple "village" generator - just a bunch of buildings scattered randomly around the place.
 
 > ![village](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/village.png)
+
+<!--more-->
 
 Before we place paths to connect these buildings, we need to think about how these buildings will be used. Some - shops, inns - will be more important than others - private residences. Let's express that by making some buildings important, giving them a different appearance, and populating them with more NPCs.
 

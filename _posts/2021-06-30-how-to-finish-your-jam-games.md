@@ -5,6 +5,7 @@ date: 2021-06-30
 comments: true
 published: true
 ---
+
 ...on time, every time.
 
 I've been game jamming for many years, from physical jams like [Global Game Jam](https://globalgamejam.org/users/cxong) and online ones like [Ludum Dare](https://ldjam.com/users/congusbongus/games), as a solo jammer and in teams, using lots of different engines and tools. Some games did really well, others not so much, but most were fun, and every one was a useful learning experience.
@@ -17,7 +18,9 @@ But here's the one trick that has worked really well for me: **make something yo
 
 I know; that sounds wrong! Aren't you supposed to make something new and innovative! What about the jam theme, are you just going to ignore that? Hear me out.
 
-Have you ever lost hours of work before - maybe you were writing an essay but your computer died, or writing some code and accidentally reverted the work? *Oh no!* you think; *this is going to take me forever to redo!!!*
+<!--more-->
+
+Have you ever lost hours of work before - maybe you were writing an essay but your computer died, or writing some code and accidentally reverted the work? _Oh no!_ you think; _this is going to take me forever to redo!!!_
 
 ![lost work](https://www.simuldocs.com/wp-content/uploads/2020/07/image-85.png)
 
@@ -40,12 +43,13 @@ Suppose your idea is a [platformer with a fun gimmick](https://www.gamasutra.com
 At this point things could go one of three ways:
 
 - You gradually implement your original idea into the game, piece by piece. No problem; you always have a working game, and you have a steady stream of progress showing your vision taking shape
-  
+
   ![platformer](https://img.itch.zone/aW1hZ2UvNDEzMS8xNzAzNS5naWY=/original/nusG3a.gif)
 
 - You notice hey, maybe the top-down game wasn't so bad, or maybe you have an even better idea at this point, and completely pivot into another game. That's cool too! It's all about the process of [finding the fun](https://www.gamasutra.com/blogs/JaneFriedhoff/20160219/266144/Finding_the_fun.php)
 
   ![topdown](https://static.jam.vg/raw/cca/z/25d80.gif)
+
 - Or most likely, you do a combination of the two. As you build out your idea, you find things that work, things that don't, and adjust accordingly
 
   ![new idea](http://cxong.github.io/images/falling_time.png)

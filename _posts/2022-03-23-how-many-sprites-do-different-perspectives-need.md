@@ -26,6 +26,8 @@ table, th, td {
 | Oblique                  | 3-3.5x         | action RPG, overhead shooter, RPG, RTS                                                       | [![Seiken Densetsu 3][9]][10] ![Z](https://upload.wikimedia.org/wikipedia/en/1/14/Linux.Debian.ZED.0.1.jpg) ![Zelda Four Swords](https://cdn.mobygames.com/screenshots/15718762-the-legend-of-zelda-four-swords-adventures-gamecube-whats-going-.png) |
 | 8-directional            | 5-5.5x         | 8-directional shooter, real time tactics                                                     | ![Gauntlet 2][17] [![Super Contra][15]][16] ![Syndicate][20]                                                                                                                                                                                          |
 
+<!--more-->
+
 # Top-down: 1x
 
 Games with a perfectly vertical perspective are the cheapest to create sprites for. You only need to create one set of sprites, and even if you need characters to face different directions, you can let your rendering software rotate the sprites. A lot of simple or retro game genres use this economical perspective - **arcade games**, top-down **action games**, **puzzle games** and so on.

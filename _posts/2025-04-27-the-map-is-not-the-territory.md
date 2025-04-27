@@ -29,6 +29,8 @@ There are two good reasons why almost all travel itineraries for first-time visi
 >
 > With few exceptions, first-time Japan travel itineraries will include the Tokyo-Osaka rail corridor, occasionally including day trips from either city. Destinations outside these areas sadly get neglected. From: <https://www.voyagedmagazine.com/how-to-plan-your-first-trip-to-japan-travel-guide-itinerary/>
 
+<!--more-->
+
 You can try this exercise with any new location, like a country or a city. Look at a map and it can seem like a wealth of possible destinations spread out across the area, but when it comes down to the practical, travel-time realities, the place starts looking entirely different. Some places will start feeling closer than they appear on the map, while others, appearing close together, may feel very remote. (This phenomenon is properly visualised by an [isochrone map](https://en.wikipedia.org/wiki/Isochrone_map))
 
 # 🏙️

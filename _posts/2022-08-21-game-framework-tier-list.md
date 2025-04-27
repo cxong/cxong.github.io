@@ -5,6 +5,7 @@ date: 2022-08-21
 comments: true
 published: true
 ---
+
 To expand on some of the thoughts from my [previous rant on nim](http://cxong.github.io/2022/07/why-i-gave-up-on-nim), here's a tier list I made. Yep, it's going to be my garbage opinions! But it also includes my (admittedly subjective) first-hand experience with using these frameworks. I've used some for years, others just a week. And it includes a few engines and not just frameworks. So there 🧐
 
 ## Criteria
@@ -24,6 +25,8 @@ Last but not least, I only list frameworks which I've at least attempted to make
 ## The List
 
 [![Tier list](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/game-frameworks.png)](https://tiermaker.com/list/video-games/game-frameworks-15282244/2400244)
+
+<!--more-->
 
 - **Phaser**: this was my go-to jam engine and I've used this for many years. The [examples website](https://phaser.io/examples) is excellent, and being a web framework, is great for jams. I stopped using it only because I found [something even better for jams](http://cxong.github.io/2020/06/fantasy-consoles-for-jams), and for other purposes, a web-only framework isn't ideal. Still for what it is, it's great.
 - **TIC-80**: my weapon of choice for game jams. The limitations are perfect for jams as it's insanely easy and fast to get something playable, and with the cheap pro version, collaboration is also easy. It's so nice for jams that I wrote [a whole post about it](http://cxong.github.io/2020/06/fantasy-consoles-for-jams).

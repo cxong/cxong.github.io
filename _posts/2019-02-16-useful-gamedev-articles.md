@@ -14,6 +14,8 @@ Over the years I've found myself referring back to the same handful of gamedev a
 
 A lot of game devs know how to make good-looking screenshots but the game itself is unreadable because everything looks too busy, too dark or too washed out. This article goes into the visual design theory of why, and really easy ways of improving the readability of your game.
 
+<!--more-->
+
 ### [The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub?embedded=true) by Itay Keren
 
 ![Animation of Super Mario World, with guide lines overlaid showing the boundaries of camera movement. The camera follows Mario at an anchor point and shifts to a different anchor point as he turns and runs.](https://lh5.googleusercontent.com/S_XlJsuKm5nDiihKatCTyZm6l7nXSBlEro2HadFE5OT1K9Odddzso7Yl1rIkfiefn-ItoodGuJ7wGUOIjS7nVtix9DbKFCt0Mkl2nTYlciXnUzptfMgCHNd4xTmx0xn2gcq0CTA)

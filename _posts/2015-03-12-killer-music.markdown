@@ -14,6 +14,8 @@ But first let me show an example of music done right: the main theme of [_Enter 
 
 > You guys were perfect! We hardly noticed you were playing.
 
+<!--more-->
+
 People didn't care about what they played, let alone how they played it. They only cared that there was _something_ to fill the silence. Most people, from games to movies, treat music the same way. All it had to do was fit and stay unobtrusive; who cares whether it was "memorable" or "moving"? E.g. scoring a desert level? Just find some [vaguely-Arabic music](http://tvtropes.org/pmwiki/pmwiki.php/Main/ShiftingSandLand) and call it a day!
 
 Well _Enter the Dragon_ cared. The main theme tells you _exactly what this movie is about_, with not a hint of subtlety, and all in the first minute no less. All you have to do is pay attention. Try for yourself: see if you can figure out what the movie is about, by listening to the music alone:
@@ -28,15 +30,15 @@ To take a gaming example, one of my favourite video game soundtracks is _Sonic 3
 
 <iframe width="320" height="100" src="https://www.youtube.com/embed/_GWv8JaJpc8" frameborder="0" allowfullscreen></iframe>
 
-Notice anything? The two are _versions of the same piece_, one in a major [key](https://en.wikipedia.org/wiki/Key_(music)) and one in minor! They have essentially the same structure too. The music is saying, "Act 2 is like Act 1 only darker and harder", which is also what the graphics are saying. The same compositional technique is used in stage 2, where the sleeker and faster Act 2 (with its jets and speed wheels) is reflected in its music.
+Notice anything? The two are _versions of the same piece_, one in a major [key](<https://en.wikipedia.org/wiki/Key_(music)>) and one in minor! They have essentially the same structure too. The music is saying, "Act 2 is like Act 1 only darker and harder", which is also what the graphics are saying. The same compositional technique is used in stage 2, where the sleeker and faster Act 2 (with its jets and speed wheels) is reflected in its music.
 
 ## Match 3 harmony
 
-Moving back to _FreeBlocks_; I was looking for additional music for the game and found [this excellent piece](http://opengameart.org/content/crystal-cave-mysterious-ambience-seamless-loop) by [pixelsphere](http://pixelsphere.org/), and by sheer coincidence the music happened to be in the same [scale](https://en.wikipedia.org/wiki/Scale_(music)) and tune to the sound effects, which gives the game a very calming, musical quality. Listen and judge for yourself:
+Moving back to _FreeBlocks_; I was looking for additional music for the game and found [this excellent piece](http://opengameart.org/content/crystal-cave-mysterious-ambience-seamless-loop) by [pixelsphere](http://pixelsphere.org/), and by sheer coincidence the music happened to be in the same [scale](<https://en.wikipedia.org/wiki/Scale_(music)>) and tune to the sound effects, which gives the game a very calming, musical quality. Listen and judge for yourself:
 
 <iframe width="320" height="240" src="https://www.youtube.com/embed/X4zXAk4pyx4" frameborder="0" allowfullscreen></iframe>
 
-Although music theory - and sound design in general - is often overlooked in games, it can be used to give an extra amount of polish that makes a game stand out. *Candy Crush Saga* is a [notable example](http://www.gamasutra.com/blogs/PJBelcher/20130712/196145/Why_Candy_Crush_Saga_is_so_Engaging__An_Audio_Breakdown.php), where all its sound effects are in the same scale.
+Although music theory - and sound design in general - is often overlooked in games, it can be used to give an extra amount of polish that makes a game stand out. _Candy Crush Saga_ is a [notable example](http://www.gamasutra.com/blogs/PJBelcher/20130712/196145/Why_Candy_Crush_Saga_is_so_Engaging__An_Audio_Breakdown.php), where all its sound effects are in the same scale.
 
 <iframe width="320" height="240" src="https://www.youtube.com/embed/8TIeNDnJiN8" frameborder="0" allowfullscreen></iframe>
 
@@ -50,4 +52,4 @@ All this really goes to show that, yes music is overlooked, but all it takes is 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190574205&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-So next time, hit up your sound designer and make some *killer music*!
+So next time, hit up your sound designer and make some _killer music_!

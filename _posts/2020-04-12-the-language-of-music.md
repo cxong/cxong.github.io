@@ -5,6 +5,7 @@ date: 2020-04-12
 comments: true
 published: true
 ---
+
 For a while there was this idea that music was the universal language. Our human languages may be mutually unintelligible but we could always enjoy each other's music. Music is such an important part of our cultures that we even sent it out on the [Voyager golden record](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/music/).
 
 But is it really as universal as we thought? Even hearing some of the songs in the golden record, they could sound beautiful yet alien to those of us accustomed to Western music, like this haunting Navajo chant:
@@ -13,11 +14,13 @@ But is it really as universal as we thought? Even hearing some of the songs in t
 
 And then consider how different everyone's musical tastes can be, how they are shaped by teenage experience in particular. The kind of music we listen to as adolescents usually [sticks with us for all time](https://www.psychologytoday.com/us/blog/the-career-within-you/201411/why-does-music-we-heard-teens-stick).
 
-So how universal is music really? To get to the bottom of this we need to go to the fundamentals of music: [*melody*, *harmony* and *rhythm*](https://www.didjshop.com/BasicMusicalHarmony.html).
+<!--more-->
+
+So how universal is music really? To get to the bottom of this we need to go to the fundamentals of music: [_melody_, _harmony_ and _rhythm_](https://www.didjshop.com/BasicMusicalHarmony.html).
 
 Music is made up of sound; consider a single note, which is a vibration at a constant frequency, or pitch. A melody is a sequence of such notes. But what pitches should these notes be? Why do we have things such as scales?
 
-Well if you look at a string instrument, the vibrating string creates the sound. Halve the length of the string, and it creates a pitch that is exactly one octave up - it sounds very similar, but is a higher pitch. Play the string at 1/3 (or 2/3) the length, and we get a pitch corresponding to a perfect fifth. 
+Well if you look at a string instrument, the vibrating string creates the sound. Halve the length of the string, and it creates a pitch that is exactly one octave up - it sounds very similar, but is a higher pitch. Play the string at 1/3 (or 2/3) the length, and we get a pitch corresponding to a perfect fifth.
 
 ![overtones](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/overtone.png)
 

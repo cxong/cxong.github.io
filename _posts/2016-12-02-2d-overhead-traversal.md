@@ -8,19 +8,21 @@ published: true
 
 Why are open world games so fun? A lot of reasons: a huge, interesting world, lots of things to see and do. But one important mechanic that support this, and which pops up a lot when people talk about open world games, is **traversal**. What's that?
 
-In a nutshell, it's the way the player moves around the world, getting from A to B. This sounds (and often is) mundane, which would be a problem for open world games with huge worlds, which is why these games often have *interesting*, *advanced techniques* to get around. You see this a lot on 3D open world games.
+In a nutshell, it's the way the player moves around the world, getting from A to B. This sounds (and often is) mundane, which would be a problem for open world games with huge worlds, which is why these games often have _interesting_, _advanced techniques_ to get around. You see this a lot on 3D open world games.
 
-When it comes to *great traversal mechanics*, two games  often get mentioned: **Spiderman 2** and **Just Cause 2**. In the former, you use your web to swing around the city, and in the latter, a unique combination of paraglide and grappling hook lets you fly around quickly. Both take some skill to pick up, but the result is a fast and cool way to get around their game worlds.
+When it comes to _great traversal mechanics_, two games often get mentioned: **Spiderman 2** and **Just Cause 2**. In the former, you use your web to swing around the city, and in the latter, a unique combination of paraglide and grappling hook lets you fly around quickly. Both take some skill to pick up, but the result is a fast and cool way to get around their game worlds.
 
 > ![spiderman 2](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/spiderman2.jpg)![just cause 2](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/justcause2.jpg)
 
-Other games also get mentioned, but I've noticed that *they are all 3D games*, and the traversal mechanics described are *3D mechanics*. I've been thinking about how traversal might work in a [top-down 2D game](http://cxong.github.io/cdogs-sdl); a lot of the things that work in 3D simply aren't there. Like:
+Other games also get mentioned, but I've noticed that _they are all 3D games_, and the traversal mechanics described are _3D mechanics_. I've been thinking about how traversal might work in a [top-down 2D game](http://cxong.github.io/cdogs-sdl); a lot of the things that work in 3D simply aren't there. Like:
 
 - **Great views**: open world games are fun because they have great scenery to enjoy. Many open world gamers have anecdotes of climbing up that big mountain to get a spectacular view, or seeing majestic buildings and landscapes in the distance. In a top-down 2D game this simply isn't possible.
 
   > ![oblivion](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/oblivion.jpg)![arkham knight](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/arkhamknight.jpeg)
 
-- **Vertical movement**: lots of traversal is about cool ways to navigate the environment, the vertical axis in particular. Jumping, climbing, spelunking, grappling, gliding, these are all things that are really awkward if not impossible to pull off in top-down 2D. Incidentally, these things are possible in 2D platformers, which is why the 2D platformer equivalent of open world games - *Metroidvania* - all feature novel movement mechanics, and not just the jump.
+  <!--more-->
+
+- **Vertical movement**: lots of traversal is about cool ways to navigate the environment, the vertical axis in particular. Jumping, climbing, spelunking, grappling, gliding, these are all things that are really awkward if not impossible to pull off in top-down 2D. Incidentally, these things are possible in 2D platformers, which is why the 2D platformer equivalent of open world games - _Metroidvania_ - all feature novel movement mechanics, and not just the jump.
 
   > ![metroid bomb jump](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/metroid_bombjump.jpg)![worms ninja rope](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/worms_ninja_rope.png)
 
@@ -28,7 +30,7 @@ Other games also get mentioned, but I've noticed that *they are all 3D games*, a
 
   > ![quake 2](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/quake2.jpg)![minecraft caves](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/minecraft_caves.jpg)
 
-So is it possible to create immersive, rich open worlds in 2D overhead, just like the 3D ones? If it's possible it's certainly a lot harder. Let's go back to first principles: *what makes traversal fun*? There's a great article called [*Traversal Level Design Principles*](http://www.gamasutra.com/blogs/TravisHoffstetter/20160107/263175/Traversal_Level_Design_Principles.php), which covers lots of the points:
+So is it possible to create immersive, rich open worlds in 2D overhead, just like the 3D ones? If it's possible it's certainly a lot harder. Let's go back to first principles: _what makes traversal fun_? There's a great article called [_Traversal Level Design Principles_](http://www.gamasutra.com/blogs/TravisHoffstetter/20160107/263175/Traversal_Level_Design_Principles.php), which covers lots of the points:
 
 - **Fun to get around**
   - **Interesting mechanics**: if getting around is trivial, it's not very interesting. But make it mechanically challenging, and getting around becomes a game of its own.

@@ -14,9 +14,11 @@ But that's not what this post is about! I want you to take a look at the [C-Dogs
 
 It's actually a pretty neat font. Most of the letters are just 3x5 pixels (some wider or taller), but with a few tricks they look super legible for their size. Here I'll show you some of the tricks used to make pixel fonts really legible.
 
+<!--more-->
+
 ## Tom Thumb
 
-Let's back up a bit. While I was looking for a free font, I had some tough requirements. The font couldn't be bigger than 3x5 pixels,  otherwise the UI in the game will break. That's a really small size to work with, and most pixel fonts struggle at that size.
+Let's back up a bit. While I was looking for a free font, I had some tough requirements. The font couldn't be bigger than 3x5 pixels, otherwise the UI in the game will break. That's a really small size to work with, and most pixel fonts struggle at that size.
 
 > ![](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/bitmap_fonts.png)
 

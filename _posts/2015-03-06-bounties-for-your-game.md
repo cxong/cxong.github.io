@@ -5,13 +5,15 @@ date: 2015-03-06
 comments: true
 ---
 
-Many open source projects are supported by bounties - cash rewards for specific work done. Have you ever wondered about doing so for games? Well I did, and tried it with [C-Dogs SDL](http://cxong.github.io/cdogs-sdl/), and it was *awesome*.
+Many open source projects are supported by bounties - cash rewards for specific work done. Have you ever wondered about doing so for games? Well I did, and tried it with [C-Dogs SDL](http://cxong.github.io/cdogs-sdl/), and it was _awesome_.
 
 ## The Bounty
 
 A month or so ago I looked into open source bounties. I knew that for very popular projects, businesses used bounties to fund the development of features. The sum of self-interested funding improved the overall project, benefiting all users.
 
 But not all projects are in this enviable place. Open source projects, like many things, follow a [power law distribution](https://en.wikipedia.org/wiki/Power_law): there are a few that get outsize attention, and a vast majority of mediocre ones languishing in one form or another. C-Dogs SDL is one of them, which gets a few drive-by contributions, but is mostly worked on by me alone. Will bounties help here, by attracting eyeballs, or even contributors who get things done?
+
+<!--more-->
 
 I found out more after settling on [Bountysource](https://www.bountysource.com/) as the funding platform. A first look confirmed my suspicions: most of the funding were for super-popular projects (like Firefox) or those that had strong commercial ties. For games this was even more stark; the only project bothering seems to be [OpenRA](http://www.openra.net/), one of the top open source games and much more notable than C-Dogs SDL. Either bounties just didn't work for small projects, or they do but most people either don't bother, or do it via other channels. I hoped it was the latter.
 
@@ -43,5 +45,5 @@ I believe that a lot of potential contributions are held back by small barriers,
 
 ## Lessons
 
-- Open source projects progress at their own pace, as unpaid volunteers work from their free time, so *be patient*.
+- Open source projects progress at their own pace, as unpaid volunteers work from their free time, so _be patient_.
 - If you want contributors, break down all the barriers, and even more! No one wants to spend days setting things up, learning a code base, and contributing changes, with no guarantee of it being accepted, so why should your potential contributors? Everyone wants to start small and test the waters, so place a high priority on removing barriers.

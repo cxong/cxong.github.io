@@ -20,6 +20,8 @@ Let's say you want to design some cool guns for your game. How would you do it? 
 
 ![gun kit](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/gun_kit.jpg)
 
+<!--more-->
+
 Some designers try to make something that looks the part - guns with powerful-looking big chunky shapes, or cool-looking shiny streaks - but there's often little sense going into these designs.
 
 ![future gun](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/future_gun.jpg)
@@ -81,7 +83,7 @@ Don't forget about firearms being hand-cannons: they get really hot! To prevent 
 
 ![gun 5](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/gun_5.jpg)
 
-What about attachments? Some firearms today have [rails](https://en.wikipedia.org/wiki/Rail_system_(firearms)) where useful attachments - grenade launchers, foregrips, laser pointers - can be added. This very much depends on the operator though. Special forces love these as they can build their perfect, individualised weapon, whereas for general infantry, a standardised, all-purpose weapon is enough. Let's go with the latter, but add a sensor-package, which integrates with our bulky sights.
+What about attachments? Some firearms today have [rails](<https://en.wikipedia.org/wiki/Rail_system_(firearms)>) where useful attachments - grenade launchers, foregrips, laser pointers - can be added. This very much depends on the operator though. Special forces love these as they can build their perfect, individualised weapon, whereas for general infantry, a standardised, all-purpose weapon is enough. Let's go with the latter, but add a sensor-package, which integrates with our bulky sights.
 
 ![gun 6](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/gun_6.jpg)
 

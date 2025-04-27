@@ -6,7 +6,7 @@ comments: true
 published: true
 ---
 
-Having big and interesting game worlds has been a holy grail of games since the beginning. In the early years, technical constraints meant that big worlds were simply infeasible, without heavy use of procedural generation - [*Elite*](https://en.wikipedia.org/wiki/Elite_(video_game)) in 1984 for example boasted thousands of planets - but nowadays, the main constraint is dev effort. Put simply, to create lots of interesting content, you need to put in lots of work.
+Having big and interesting game worlds has been a holy grail of games since the beginning. In the early years, technical constraints meant that big worlds were simply infeasible, without heavy use of procedural generation - [_Elite_](<https://en.wikipedia.org/wiki/Elite_(video_game)>) in 1984 for example boasted thousands of planets - but nowadays, the main constraint is dev effort. Put simply, to create lots of interesting content, you need to put in lots of work.
 
 But that doesn't mean we can't use clever techniques to get the most bang for buck.
 
@@ -14,17 +14,17 @@ But that doesn't mean we can't use clever techniques to get the most bang for bu
 
 # Bigger is not Better
 
-When we look at lists of [biggest game worlds](https://www.reddit.com/r/Games/comments/ehwyj8/sizes_of_the_largest_open_world_video_game_maps/), space games like [*Elite Dangerous*](https://en.wikipedia.org/wiki/Elite_Dangerous) and [*Starfield*](https://en.wikipedia.org/wiki/Starfield_(video_game)) dominate, but that's not particularly insightful when you consider they are mostly empty space. A bit lower in the rankings you'll find [*Daggerfall*](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall), which dwarfs other *Elder Scrolls* game worlds while being much older than them - notably having "the size of Great Britain" - but again, isn't interesting as most of the game is empty wilderness, sparsely filled with randomly generated towns.
+When we look at lists of [biggest game worlds](https://www.reddit.com/r/Games/comments/ehwyj8/sizes_of_the_largest_open_world_video_game_maps/), space games like [_Elite Dangerous_](https://en.wikipedia.org/wiki/Elite_Dangerous) and [_Starfield_](<https://en.wikipedia.org/wiki/Starfield_(video_game)>) dominate, but that's not particularly insightful when you consider they are mostly empty space. A bit lower in the rankings you'll find [_Daggerfall_](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall), which dwarfs other _Elder Scrolls_ game worlds while being much older than them - notably having "the size of Great Britain" - but again, isn't interesting as most of the game is empty wilderness, sparsely filled with randomly generated towns.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvFdMax3wlA?si=WiYpCwuiHphb-vk2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<!--more-->
 Another mistake that some games make is by increasing the scale of their game worlds without maintaining the density of content, which makes things feel sparse. During the release of [*GTA San Andreas*](https://en.wikipedia.org/wiki/Grand_Theft_Auto%3A_San_Andreas), there was some hype about being able to enter lots of buildings, and while the game did make many improvements in density over its predecessors, most buildings were still off bounds or limited in interactivity, making the game feel less like a huge living city and still like a playground for driving cars around.
 
 So when it comes to feeling big, the raw numbers don't tell the whole story. Bigger is not better if it is just sparse, more is not better if it is small variations of the same stuff. To truly feel big, we need things like variety, complexity, and content.
 
 # PCG is not a Panacea
 
-Over the years various people have touted procedural content generation as the killer technology that will enable big and interesting game worlds on the cheap. In recent years, [*No Man's Sky*](https://en.wikipedia.org/wiki/No_Man's_Sky) suffered bad reviews due to not being able to live up to its hype; boasting quintillions of playable worlds, a press largely unfamiliar with PCG helped blow things out of proportion. The reality is that, although PCG is great for some things, it is no replacement for hand-crafted content in the same quantity; quintillions of worlds created by competent human artists (if such a thing were possible) would be so much more compelling than any algorithm could, and equating the two was ridiculous.
+Over the years various people have touted procedural content generation as the killer technology that will enable big and interesting game worlds on the cheap. In recent years, [_No Man's Sky_](https://en.wikipedia.org/wiki/No_Man's_Sky) suffered bad reviews due to not being able to live up to its hype; boasting quintillions of playable worlds, a press largely unfamiliar with PCG helped blow things out of proportion. The reality is that, although PCG is great for some things, it is no replacement for hand-crafted content in the same quantity; quintillions of worlds created by competent human artists (if such a thing were possible) would be so much more compelling than any algorithm could, and equating the two was ridiculous.
 
 More recently, generative AI has caused much disruption and threatened to replace human artists in many domains. It is still early days, but indications so far suggest that they cannot fully replace all human artists, but may be useful in some mundane tasks, provided we can sort out the legal issues.
 
@@ -114,7 +114,6 @@ One consequence of extreme density and verticality is that it turns the space fr
 ![Multilevel business building](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/multilevel_th.jpeg)
 </a>
 
-
 ## Specialisation
 
 When population density is high enough, more and more niches become viable, and here's where we see lots of specialisation. Specialty stores in big cities sell all sorts of weird items for tiny interest groups, that are often baffling for lay people. Unique buildings, people of all sorts of subcultures comingle like colourful animals in a thick urban jungle. Cities are anything but boring and uniform.
@@ -144,7 +143,7 @@ Recall Pokemon's Celadon Department Store? It sells a lot of unique items, inclu
 
 This is basically what I wanted to say with this post: making big worlds is hard, and you can't cheat your way by copy-pasting content or using procedural generation. However by focusing on three elements: **complexity**, **density** and **specialisation**, you can make the most of your efforts - some games do this well by making some locations feel bigger without actually being geographically bigger.
 
-This post does not cover exactly *how* to go about building big worlds - this is a far too broad subject - but here's a random list of items to consider:
+This post does not cover exactly _how_ to go about building big worlds - this is a far too broad subject - but here's a random list of items to consider:
 
 - Historical layering, old/new regions: tell the history of the world via the environment
 - Show construction: real cities/worlds are organic and always a work-in-progress
@@ -159,5 +158,5 @@ This post does not cover exactly *how* to go about building big worlds - this is
 
 As well as a few excellent reading materials:
 
-- [A Beginner’s Guide To Crafting Video Game Cities](https://www.gamedeveloper.com/design/a-beginner-s-guide-to-crafting-video-game-cities) - argues that one should take a world-building approach to building cities. Make a realistic city first, then adapt it for the game: *it is, after all, not its size that differentiates a city from a village, but its functions*
-- [Urban Design and the Creation of Videogame Cities](https://www.gamedeveloper.com/design/urban-design-and-the-creation-of-videogame-cities) - contains lots of pointers on how to make great cities. *Game cities must always make sense*
+- [A Beginner’s Guide To Crafting Video Game Cities](https://www.gamedeveloper.com/design/a-beginner-s-guide-to-crafting-video-game-cities) - argues that one should take a world-building approach to building cities. Make a realistic city first, then adapt it for the game: _it is, after all, not its size that differentiates a city from a village, but its functions_
+- [Urban Design and the Creation of Videogame Cities](https://www.gamedeveloper.com/design/urban-design-and-the-creation-of-videogame-cities) - contains lots of pointers on how to make great cities. _Game cities must always make sense_

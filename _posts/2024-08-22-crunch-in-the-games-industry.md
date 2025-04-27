@@ -14,6 +14,8 @@ In the 2022 book [_Goldeneye 007_](https://bossfightbooks.com/products/goldeneye
 >
 > Excerpt From _GoldenEye 007_ by _Alyse Knorr_
 
+<!--more-->
+
 Surely this workload should give us pause, especially as fans of the games, we are indirectly responsible for cultivating this unhealthy work culture. The games industry is not the only one like this; many other industries, especially in entertainment, or entry-level positions, can be just as ruthless. And so you may say, "these folks are young and they love their work - what's wrong with letting passionate people work really hard?" I can understand this sentiment, even though it's clear by now overwork is a health epidemic that should always be avoided. But the picture becomes murky when employers deliberately exploit this.
 
 > “The team’s imposter syndrome came partly from their youth and inexperience—everyone on the GoldenEye team was in their late 20s or early 30s and mostly single, something Rare specifically looked for, since it meant their employees wouldn’t have a life outside of work. Rare’s workplace culture also strongly encouraged long hours. The company’s whole ethos had always been about scrappy workaholic excellence, starting with their earliest days as Ultimate Play the Game. Into the 90s, the Stamper brothers themselves continued to maintain long hours, and around Rare there was little respect for employees who only worked nine to five. “You were promoted if you were dedicated, and by dedicated, I mean, do you stay long hours and work yourself hard?” Botwood told Eurogamer.”

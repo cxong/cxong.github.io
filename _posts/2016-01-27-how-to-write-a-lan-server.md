@@ -16,20 +16,22 @@ Most people who have made, or attempted to make, network-multiplayer games will 
 
 Most "game server browsers" actually download lists from several known locations, a fancy way of doing no. 2. But no. 2 boils down to picking an IP from a list, which the game then uses to connect to directly anyway - no. 1. The point is: to connect two games, you need the **IP address**.
 
-<sub>In ages past there were dial-up modems where you could connect using *phone numbers*, or IPX which is similar to IP but has different addresses. The protocols have changed but the problem is the same.</sub>
+<sub>In ages past there were dial-up modems where you could connect using _phone numbers_, or IPX which is similar to IP but has different addresses. The protocols have changed but the problem is the same.</sub>
 
 But how do games see each other on a LAN? Somehow many LAN-enabled games can scan and find servers running on a LAN, and avoid having to enter IP addresses manually. They also do this without having to access a remote server list.
+
+<!--more-->
 
 ## Broadcast Address
 
 Fortunately, the solution is provided by the network itself: in IP networks, you can send messages to the [broadcast address](https://en.wikipedia.org/wiki/Broadcast_address) (255.255.255.255) and the network will pass the message on to all hosts on the network, that is, the LAN. Servers that understand the broadcast message can then reply back, alerting the broadcaster to their presence and address.
 
-This is very simple in concept but takes a surprising amount of code to implement; IP broadcasts are only available for *connectionless, datagram sockets*, and most game network services either use TCP or a connection-based scheme to make things easier, so chances are you can't just shoehorn the broadcast functionality into your existing network handler. Therefore, the LAN "scanner" service will have to run on a different port, using UDP. The procedure is this:
+This is very simple in concept but takes a surprising amount of code to implement; IP broadcasts are only available for _connectionless, datagram sockets_, and most game network services either use TCP or a connection-based scheme to make things easier, so chances are you can't just shoehorn the broadcast functionality into your existing network handler. Therefore, the LAN "scanner" service will have to run on a different port, using UDP. The procedure is this:
 
-1. The game server itself runs on port *A*, but a "listen" socket runs on a *fixed port B*.
-2. The client scans for LAN servers by *broadcasting a UDP packet* on port *B*.
-3. Servers receiving the broadcast scan reply back, optionally including the information that a game server is running on port *A*.
-4. The client, upon receiving the reply, connects normally to the IP and on port *A*.
+1. The game server itself runs on port _A_, but a "listen" socket runs on a _fixed port B_.
+2. The client scans for LAN servers by _broadcasting a UDP packet_ on port _B_.
+3. Servers receiving the broadcast scan reply back, optionally including the information that a game server is running on port _A_.
+4. The client, upon receiving the reply, connects normally to the IP and on port _A_.
 
 <sub>Full credit for [this solution](http://lists.cubik.org/pipermail/enet-discuss/2009-March/001072.html) goes to [Lee Salzman](http://sauerbraten.org/lee/), of Sauerbraten and ENet.</sub>
 
@@ -51,7 +53,7 @@ First, the initialisation:
 enet_initialize();
 ```
 
-A common mistake is to forget to initialise ENet itself; you'll run into mysterious errors with the other ENet functions if you forget. Of course, like a good programmer you should *always* check your error values, but I'm omitting those in this post for brevity.
+A common mistake is to forget to initialise ENet itself; you'll run into mysterious errors with the other ENet functions if you forget. Of course, like a good programmer you should _always_ check your error values, but I'm omitting those in this post for brevity.
 
 Next, start the listening socket, on port `34567` (pick any port that is likely to be unused):
 

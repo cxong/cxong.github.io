@@ -8,7 +8,7 @@ published: true
 
 To make better games, I'm a big believer in the value of learning the fundamentals, even if they aren't directly related to game dev. You can elevate your game dev skills using the principles of design and art. Go beyond the amateurish, to something that is professional and powerful.
 
-Take animation, which is more than a century old. My go-to bible is [*The Animator's Survival Kit*](https://en.wikipedia.org/wiki/The_Animator's_Survival_Kit), an absolute classic by an award-winning veteran. When people ask for quick tips, I also recommend Disney's [*12 Principles of Animation*](https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation). Even though these guides were written before computer animation became ubiquitous, their principles apply [regardless of the tools you use](https://www.gamedeveloper.com/production/the-12-principles-of-animation-in-video-games).
+Take animation, which is more than a century old. My go-to bible is [_The Animator's Survival Kit_](https://en.wikipedia.org/wiki/The_Animator's_Survival_Kit), an absolute classic by an award-winning veteran. When people ask for quick tips, I also recommend Disney's [_12 Principles of Animation_](https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation). Even though these guides were written before computer animation became ubiquitous, their principles apply [regardless of the tools you use](https://www.gamedeveloper.com/production/the-12-principles-of-animation-in-video-games).
 
 I often see people making games, putting a lot of love and effort into it, but the animation is lifeless and basic. If only they applied some basic animation principles, this could look so much better! Well, now I'd like to show how to do this, using a basic, side-scrolling platformer character example.
 
@@ -21,6 +21,8 @@ Giving Ticcy a basic walk and run animation might look something like this:
 > ![Ticcy basic walk and run](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/ticcy-basic.gif)
 >
 > ...and Ticcy has a hat, just because
+
+<!--more-->
 
 And this is fine, to be honest. But let's apply some of the animation principles, and see how much this can change.
 
@@ -36,7 +38,7 @@ One thing to note, for realism, it is important to preserve the volume of the ob
 
 # Anticipation
 
-Also known as *antic*, this is the addition of an anticipatory action before a big action, so the action feels even bigger and impactful. A common example is a character winding back before taking a swing with a weapon. Here we apply an antic by making Ticcy do a squat before jumping:
+Also known as _antic_, this is the addition of an anticipatory action before a big action, so the action feels even bigger and impactful. A common example is a character winding back before taking a swing with a weapon. Here we apply an antic by making Ticcy do a squat before jumping:
 
 ![Ticcy squat and jump](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/ticcy-antic.gif)
 

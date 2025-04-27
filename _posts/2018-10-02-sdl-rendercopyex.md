@@ -13,6 +13,8 @@ This is a simple demo project which uses SDL_RenderCopyEx to rotate, scale and f
 
 ![sdl2-rendercopyex-demo](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/sdl-rendercopyex.png)
 
+<!--more-->
+
 Pretty simple, although you'll probably want some boilerplate code like I did:
 
 ```c

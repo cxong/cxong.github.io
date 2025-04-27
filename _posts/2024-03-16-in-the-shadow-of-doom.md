@@ -14,6 +14,8 @@ Yet Doom was not the first big deal by id Software, nor was it the first FPS. Li
 
 And thus we are left with the gaming and cultural behemoth that was Doom, and in its wake, lie numerous could-have-beens, hopelessly overshadowed and forgotten. Some were quality games that could have enjoyed great success, some were decent and could have sustained the budding studios behind them, and some were, well, forgettable me-toos that nevertheless could have built modest followings. In this post, as we [look back on 30 years of Doom](https://www.theguardian.com/games/2023/dec/08/doom-at-30-what-it-means-by-the-people-who-made-it), let's also look back on the the losers of history, the games that deserved more love than they did, in the shadow of Doom.
 
+<!--more-->
+
 # Rise of the Triad
 
 ![Rise of the Triad](https://cdn.mobygames.com/screenshots/4249203-rise-of-the-triad-dark-war-dos-a-better-screenshot-of-the-infamo.png)
