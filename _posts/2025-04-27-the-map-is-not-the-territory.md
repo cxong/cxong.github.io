@@ -74,7 +74,7 @@ So how do you use this knowledge to design better games? There are lots of possi
 
 - Distance is not so much a function of space, but time and effort taken to travel to a location. If a destination involves a long and dangerous journey away from a safe hub, it can feel especially remote. Consider placing big rewards or secrets in such locations - finding them can feel especially rewarding.
 
-<a href="https://static.wikia.nocookie.net/gtawiki/images/8/86/LosSantosTower-GTASA-Rooftop.png/revision/latest/scale-to-width-down/1000"><img src="https://static.wikia.nocookie.net/gtawiki/images/8/86/LosSantosTower-GTASA-Rooftop.png/revision/latest/scale-to-width-down/1000" alt="San Andreas Los Santos Tower" width="400px" /></a>
+![Freelancer neutron star in Omega-41 system](https://fl-guide.de/graph/systems/omega41.png)
 
 - Letting the player unlock more paths (in the form of waypoints or shortcuts) is an interesting way to provide a sense of progress. It gives the player the feeling of reshaping the world for their convenience, giving them a sense of belonging to the world.
 

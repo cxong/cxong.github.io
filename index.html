@@ -7,9 +7,8 @@ layout: default
     <div class="well">
         <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
         {% if site.comments == true and post.comments == true and site.disqus != '' %}
-          <p class="author"><a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">Comments</a></p>
+          <p class="author"><a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">Comments</a> / {% include reading-time.html %}</p>
         {% endif %}
-        {% include reading-time.html %}
         <div class="content">
             {{ post.excerpt }}
         </div>
