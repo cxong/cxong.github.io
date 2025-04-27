@@ -30,3 +30,5 @@ gems:
   - jemoji
 
 markdown: kramdown
+
+excerpt_separator: <!--more-->
