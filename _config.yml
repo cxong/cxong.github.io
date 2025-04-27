@@ -22,7 +22,7 @@ disqus: 'congusbongusgames'
 comments: true
 
 permalink: /:year/:month/:title
-paginate: 3
+paginate: 5
 
 exclude: ['README.md', 'LICENSE']
 
