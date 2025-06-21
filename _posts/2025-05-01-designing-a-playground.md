@@ -65,16 +65,16 @@ So as an individual player, your experience is likely to be: go for the objectiv
 Let's look at a pair of maps to see a different way whereby a map can produce dynamic gameplay, from [Counter-Strike](https://en.wikipedia.org/wiki/Counter-Strike): [de_dust](https://counterstrike.fandom.com/wiki/Dust) and [de_dust2](https://counterstrike.fandom.com/wiki/Dust_II).
 
 <a
-    href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/de_dust-overview_th.jpg"
+    href="http://games.parsons.edu/wp-content/uploads/2012/04/dust_floorplan.jpg"
     data-fancybox="gallery-dust"
     data-caption="Overhead map of de_dust. Terrorists spawn in the left courtyard, and Counter-Terrorists spawn in the right, with bomb site A in the north and B right where CTs spawn. It soon becomes apparent that the two choke points are the dark corridors in the middle and the underpass in the south.">
-![de_dust floorplan](http://games.parsons.edu/wp-content/uploads/2012/04/dust_floorplan.jpg)
+![de_dust floorplan](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/de_dust-overview_th.jpg)
 </a>
 <a
-    href="https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/dust1_th.jpg"
+    href="https://games.parsons.edu/wp-content/uploads/2012/04/dust1.jpg"
     data-fancybox="gallery-dust"
     data-caption="Entrance to the underpass in de_dust. Millions of hours were spent slaughtering virtual players in this tiny map.">
-![de_dust underpass entrance](https://games.parsons.edu/wp-content/uploads/2012/04/dust1.jpg)
+![de_dust underpass entrance](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/dust1_th.jpg)
 </a>
 
 Dust 2 needs no introduction, being one of the most popular maps in one of the most popular FPS game franchises. Its predecessor Dust 1 (a.k.a. de_dust) was also notorious in its day, also one of the most popular (and often most hated) maps in the game's early years. [If you've played it you'll know this well](https://games.parsons.edu/de_dust/), but even if not, a little study of the floor plan will reveal why it is so controversial: the map design forces players into two easily defensible chokepoints, and unless there's a spirited assault with a generous amount of luck, the game devolves into a spammy, chaotic mess of a firefight, with little teamwork to speak of and random deaths galore. In other words, it forces players to play in one specific way, and even if you're not on the receiving end of the meat grinder, the game quickly becomes monotonous.
@@ -100,16 +100,16 @@ A game like Counter-Strike is in some ways easy to design for, since the game is
 Enter Team Fortress 2's [payload game mode](https://wiki.teamfortress.com/wiki/Payload). This game, perhaps more than any other, set the blueprint for how the combination of [hero shooter](https://en.wikipedia.org/wiki/Hero_shooter) + well designed map mechanics can focus gameplay into one main battleground, while still spanning a large total space. For those uninitiated, in the payload game mode, the attacking team must escort a slow-moving vehicle past a series of checkpoints, and the defending team have a defender's advantage, especially when it comes to the "payload", where escorts are particularly vulnerable to being shot at from all directions. The payload is the natural focal point of the game, even as it traverses the length of the level.
 
 <a
-    href="https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Badwater-Basin.jpg?w=1024&resize=400%2C240"
+    href="https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Badwater-Basin.jpg?w=1024&resize=1024%2C576"
     data-fancybox="gallery-payload"
     data-caption="Screenshot of Badwater Basin, perhaps the best payload map in TF2.">
-![Badwater Basin](https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Badwater-Basin.jpg?w=1024&resize=1024%2C576)
+![Badwater Basin](https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Badwater-Basin.jpg?w=1024&resize=400%2C240)
 </a>
 <a
-    href="https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Gold-Rush.jpg?w=1024&resize=400%2C240"
+    href="https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Gold-Rush.jpg?w=1024&resize=1024%2C576"
     data-fancybox="gallery-payload"
     data-caption="Screenshot of Gold Rush, one of the first payload maps in the game. TF2 did not come out with payload maps but added it soon after, and Gold Rush remained a favourite as it went through many changes.">
-![Gold Rush](https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Gold-Rush.jpg?w=1024&resize=1024%2C576)
+![Gold Rush](https://www.escapistmagazine.com/wp-content/uploads/2023/07/Team-Fortress-2-Best-Payload-Maps-Gold-Rush.jpg?w=1024&resize=400%2C240)
 </a>
 
 Despite being a natural meat-grinder, how does the game encourage players to jump in? In a number of clever ways:
