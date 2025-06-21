@@ -14,6 +14,8 @@ It was the first time I really thought about how people play the same game in di
 
 Plenty of mechanics prevent the most antisocial of behaviours. Spawn protection prevents the worst kinds of spawn camping, and limited ammo prevents players from camping advantageous terrain indefinitely. But I want to look at how map design can focus the action, provide good pacing, and enable dynamic gameplay so different kinds of players can shine and enjoy the game in their own ways. For that we need to first look at the classic Enemy Territory map [Supply Depot](https://et.trackbase.net/map/8/).
 
+<!--more-->
+
 <hr>
 
 <a
