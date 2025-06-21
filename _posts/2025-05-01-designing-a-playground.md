@@ -6,6 +6,12 @@ comments: true
 published: true
 ---
 
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
 Back in the day I played a lot of online FPS games, but one really stuck with me and earned most of my devotion: [Enemy Territory](https://en.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory), the free (and now open source) team, class and objective-based game. I remember during a late night session, one of my clan-mates said:
 
 > congusbongus always goes for the objectives eh?
