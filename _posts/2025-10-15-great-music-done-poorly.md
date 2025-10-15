@@ -28,7 +28,7 @@ Although not as notable or critically acclaimed as the likes of Final Fantasy, t
 
 But this is not how players typically experience the music. As an SRPG, the "strategy" part of the game alternates between the battle map and fight scenes, with different musical themes used for each. Because of this rapid alternation, the player hears the first 5 seconds of the musical themes again and again, as the music starts from the beginning each time...
 
-<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/Z238UvrZdBM&amp;start=285" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z238UvrZdBM?start=285" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This means players typically never experience the full battle music themes, which are some of the best tracks in the game, because every time a character is attacks or is attacked, the game screen changes and the theme restarts from the beginning again. The tracks are not exactly minimalist which means they become repetitive real quick. What a shame!
 
@@ -40,7 +40,7 @@ I'm not familiar with the game's programming, but I suspect even if they could i
 
 This choice may seem out of place because the [Bubble Bobble](<https://en.wikipedia.org/wiki/Bubble_Bobble_(video_game)>) theme is very good. Not only is it a great melody, but it does a lot with its severe technical limitations:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KOuVKxzW4Do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/KOuVKxzW4Do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 It uses only 2 channels but sounds like it's using more via alternating instruments, and manages to squeeze in echo effects as well. It is quite a long theme for its time, at almost 50 seconds before fully repeating, but uses minimal memory space due to clever repetition of patterns. And the theme resolves back on itself, making the repeats sound natural and satisfying rather than jarring.
 
@@ -48,7 +48,7 @@ Despite all these good things, I would argue that it unfortunately falls into th
 
 But if technical limitations meant themes couldn't be long or complex enough to overcome this uncanny valley, what else could they have done? Well, how about like [Donkey Kong](<https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)>):
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ljaJ7swsR98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/ljaJ7swsR98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This iconic "theme" is just a bass-line of 5 notes, so it doesn't even qualify as a theme, and is more like a riff. By being this minimalist and simple, Donkey Kong's music manages to stay out of the way and repeat itself ad infinitum without feeling repetitive. Compared to other game music of its era, like Pac-Man and Galaxian's sirens, to Xevious's grating attempt at a theme, Donkey Kong's is masterful by comparison.
 
@@ -58,7 +58,7 @@ In other words, Bubble Bobble's theme could have been better if it either kept i
 
 When you're making an RTS to take on one of the best in the industry - _Age of Empires_ - and outdo it in the way it's known for - its epic scale - you need a heck of a good soundtrack. [Empire Earth](<https://en.wikipedia.org/wiki/Empire_Earth_(video_game)>)'s attempt was commendable, as it had a varied and polished soundtrack, with moody ambients and moving crescendos.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZoslAq6-ajU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/ZoslAq6-ajU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Yet if you listen to it for any significant length, you'll notice how utterly repetitive it is. First, the tracks are very short. Don't let the runtime of online listings fool you, most are sourced from a bad rip that overstates exactly how short the tracks are - don't believe me? Load them into an audio editor and see. I find that one minute is usually the bare minimum length for a game track to avoid it sounding repetitive, and usually you want two minutes at least.
 
@@ -72,11 +72,11 @@ By the early 2000's video games had established itself as a major entertainment 
 
 It's against this backdrop that many games dove head-first into dynamic music. Instead of fixed soundtracks that played in the background on repeat, wouldn't it be cool to have them react according to what's happening in the game? It's a new and exciting concept, so there were bound to be times where people got it wrong. One of these is [_Age of Mythology_](https://en.wikipedia.org/wiki/Age_of_Mythology).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gVrY2RL2X88&amp;start=1456" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gVrY2RL2X88?start=1456" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The game otherwise has fantastic music that's done well. It even has "mellow" versions of its main tracks which are played in various cutscenes or [when the action is subdued](<https://ageofempires.fandom.com/wiki/Soundtrack_(Age_of_Mythology)#Trivia>), a very nice touch. However it has a jarring "town attack" track which plays whenever your town center is being attacked, or if you attack an enemy's.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R0W7bzKMyJq8jxly" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/H2DXOnLwRtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 There's nothing wrong with the track but it's entirely to do with its hair-trigger: even if the enemy is attacking with a few scout units, or you're ordering your army to attack various things, as soon as you click the town center, this track cuts abruptly in, often interrupting some chill track that's typical of this game's soundtrack. The effect is extremely jarring and takes you out of it - the opposite of what a good soundtrack should do.
 
@@ -91,13 +91,13 @@ It appears _Age of Mythology: Retold_ reworks this somewhat, having the track cu
 
 For the third iteration, Sega took what worked in SoR2 and iterated on everything. The composer Yuzo Koshiro drew heavily from club influences at the time and used a unique system to compose its highly experimental soundtrack. The result [fiercely divided fans and critics](https://en.wikipedia.org/wiki/Streets_of_Rage_3#Soundtrack).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DuQChpKONNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/DuQChpKONNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For fans accustomed to the melodic techno of the second game, this was certainly very challenging, and many hated the chaotic and atonal tracks. But others, particularly those who were familiar with its club influences, recognised it as such and lauded its creativity. Time proved the second group right as it aged well and was shown to be a masterpiece ahead of its time.
 
 Perhaps we can draw two lessons from this: don't alienate your fans by deviating too much from what they like, and be careful with being too ahead of the curve. I will say one thing though: despite how avant-garde the music was, the style is perfect for boss battles where the high energy and tension is most suitable. Just have a listen to this banger, IMO one of the best boss themes for the Megadrive:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XpimeJTPbbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="64" src="https://www.youtube-nocookie.com/embed/XpimeJTPbbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## To Recap
 
