@@ -5,8 +5,11 @@
     <meta charset="UTF-8">
     <title>{{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="{{ site.name }}">
     <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:type" content="website">
     <meta property="og:image" content="{{ site.baseurl }}/images/playhouse.png">
+    <meta property="og:url" content="{{ site.baseurl}}{{ page.url }}">
     <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
     <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
     <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
