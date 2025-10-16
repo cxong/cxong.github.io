@@ -4,7 +4,7 @@ name: congusbongusgames
 description: Thoughts on game dev, design and music from a hobbyist
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://cxong.github.io
+url: https://cxong.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
