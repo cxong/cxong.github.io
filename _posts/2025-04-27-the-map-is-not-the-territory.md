@@ -78,4 +78,4 @@ So how do you use this knowledge to design better games? There are lots of possi
 
 - Letting the player unlock more paths (in the form of waypoints or shortcuts) is an interesting way to provide a sense of progress. It gives the player the feeling of reshaping the world for their convenience, giving them a sense of belonging to the world.
 
-![Pokemon HeartGold/SoulSilver cutting a tree](https://archives.bulbagarden.net/media/upload/5/54/Cut_HGSS_OW.png)
+![Pokemon HeartGold/SoulSilver cutting a tree](https://static.pokemoncoders.com/wp-content/uploads/2025/06/get-cut-in-pokemon-hg-ss-getting-cut.jpg)
