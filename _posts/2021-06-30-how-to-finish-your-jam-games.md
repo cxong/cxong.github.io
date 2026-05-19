@@ -22,7 +22,7 @@ I know; that sounds wrong! Aren't you supposed to make something new and innovat
 
 Have you ever lost hours of work before - maybe you were writing an essay but your computer died, or writing some code and accidentally reverted the work? _Oh no!_ you think; _this is going to take me forever to redo!!!_
 
-![lost work](https://www.simuldocs.com/wp-content/uploads/2020/07/image-85.png)
+![nlost](http://cxong.github.io/images/lost_work.jpg)
 
 But instead of hours, it takes only 10 minutes to restore.
 
