@@ -51,13 +51,13 @@ We've seen it again and again, from CDs triggering an [FMV craze](https://en.wik
     href="https://i.redd.it/fg4n9f8wm5cy.jpg"
     data-fancybox="gallery-trends"
     data-caption="Meme about the oversimplification of map design over the decades. Although a gross exaggeration, it does reflect the industry's shifting focus from pure topography to environment and set pieces.">
-![90s vs 2010s FPS map design](https://i.redd.it/fg4n9f8wm5cy.jpg)
+<img src="https://i.redd.it/fg4n9f8wm5cy.jpg" width="25%" height="25%"/>
 </a>
 <a
     href="https://i.kym-cdn.com/photos/images/original/000/570/781/d94.jpg"
     data-fancybox="gallery-trends"
     data-caption="As games get more expensive to make, due to increased competition and rising production costs, studios become risk-averse and end up making the same kinds of games, and players definitely notice.">
-![Generic FPS cover](https://i.kym-cdn.com/photos/images/original/000/570/781/d94.jpg)
+<img src="https://i.kym-cdn.com/photos/images/original/000/570/781/d94.jpg" width="25%" height="25%"/>
 </a>
 
 While gameplay and "fun" are important, prioritising it above all is overly reductive, because games are so much more than just that. Just as other media and art forms can be so much more than just entertainment, so can games, and arguably more so, since games are interactive and dynamic. Games can teach, by [setting up an escalating series of challenges](https://larsdoucet.blogspot.com/2010/03/practical-game-design-rule-of-threes.html). Games create empathy, by giving you agency and placing you [directly in the shoes of a protagonist](https://www.popmatters.com/171036-papers-please-2495760180.html). Games produce understanding, by letting players [experiment with complex systems](https://cmprindia.org/strategy-games-systems-thinking-tools/), test hypotheses, and learn by doing. No other medium is quite like it.
