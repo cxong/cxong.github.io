@@ -8,7 +8,15 @@
     <meta property="og:title" content="{{ site.name }}">
     <meta property="og:description" content="{{ site.description }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/playhouse.png">
+    {% assign og_image = site.url | append: site.baseurl | append: '/images/playhouse.png' %}
+    {% if page.layout == 'post' and page.content contains '<img' %}
+      {% assign first_image_tag = page.content | split: '<img' | slice: 1, 1 | first %}
+      {% assign first_image = first_image_tag | split: 'src="' | last | split: '"' | first %}
+      {% if first_image != '' %}
+        {% assign og_image = first_image %}
+      {% endif %}
+    {% endif %}
+    <meta property="og:image" content="{{ og_image }}">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     <script src="{{ site.url }}{{ site.baseurl }}/js/jquery.min.js"></script>
     <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
