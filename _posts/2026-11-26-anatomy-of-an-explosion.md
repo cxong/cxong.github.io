@@ -6,23 +6,23 @@ comments: true
 published: true
 ---
 
-Explosions are perhaps the most iconic visual effect: loud, stunning, and complex. No video game - certainly no *violent* video game - is complete without it. For most it's probably best to leave it to professionals, either get someone to make them for you or find a ready-made asset. But we're curious here so why not make our own? And by doing so, we can make it well adapted to our own game!
+Explosions are perhaps the most iconic visual effect: loud, stunning, and complex. No video game - certainly no _violent_ video game - is complete without it. For most it's probably best to leave it to professionals, either get someone to make them for you or find a ready-made asset. But we're curious here so why not make our own? And by doing so, we can make it well adapted to our own game!
 
-So first, the impetus of this exercise was [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/). This game, a continuation of tje classic 90's DOS game [C-Dogs](https://en.wikipedia.org/wiki/C-Dogs) also has the same explosions. For the time, it was pretty good:
+So first, the impetus of this exercise was [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/). This game, a continuation of the classic 90's DOS game [C-Dogs](https://en.wikipedia.org/wiki/C-Dogs) also has the same explosions. For the time, it was pretty good:
 
 ![C-Dogs explosions](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/cdogs_explosion.gif)
 
-While it still mostly holds up, it's been \**checks watch*\* 3 decades. The original may have taxed the 486s of its time, but I reckon we can do better!
+While it still mostly holds up, it's been \*_checks watch_\* 3 decades. The original may have taxed the 486s of its time, but I reckon we can do better!
 
 <!--more-->
 
-In CG there are broadly two approaches, which I'll term *Simulationist* and *Perceptionist*: the former tries to simulate the world according to how it works, and the latter focuses on making things look realistic or good above all else. Means vs ends, in other words. For our explosions, it means looking at how explosions *work*, vs how they *look*. I believe for games we need a healthy balance between the two. Simulationist as we are working with games after all, so making them dynamic means we can have them interact with the world: being shaped by the world geometry, and destroying in game entities in a sensible way. Perceptionist as games are entertainment and spectacle, so rule of cool and all that.
+In CG there are broadly two approaches, which I'll term _Simulationist_ and _Perceptionist_: the former tries to simulate the world according to how it works, and the latter focuses on making things look realistic or good and not worry about how it's done. Means vs ends, in other words. For our explosions, it means looking at how explosions _work_, vs how they _look_. I believe for games we need a healthy balance between the two. Simulationist as we are working with games after all, so making them dynamic means we can have them interact with the world: being shaped by the world geometry, and destroying in game entities in a sensible way. Perceptionist as games are entertainment and spectacle, so rule of cool and all that.
 
 # How Explosions Work
 
 > ![Anatomy of an explosion](https://legionmagazine.com/wp-content/uploads/2011/10/BoomInsetIllustration.jpg)
-> 
-> https://legionmagazine.com/inside-the-blast-part-1-anatomy-of-an-explosion/
+>
+> <https://legionmagazine.com/inside-the-blast-part-1-anatomy-of-an-explosion/>
 
 There are many kinds of explosions and they can look very different. In our exercise we are creating a [small-arms](https://en.wikipedia.org/wiki/Small_arms_and_light_weapons) explosion like from a grenade, and these look quite different in real life than typically depicted in entertainment. In real life they tend to have more "bite" than "bark", as their killing power mostly comes from shrapnel and the sheer explosive kinetic force, and show almost none of the big fireballs in movies that are actually achieved by [fuel explosions](https://www.youtube.com/watch?v=nqJiWbD08Yw).
 
@@ -30,8 +30,8 @@ Nevertheless we'll rule of cool this one and look at large explosions, which are
 
 - [Flash and thermal radiation](https://www.atomicarchive.com/science/effects/thermal-radiation.html), the first effect although it can last a few seconds, provides most of the destructive energy and can set things on fire
 - Supersonic shockwave, radiating out ahead of the main explosion, and can sometimes be seen faintly but is most visible at ground level as it kicks up dirt and hapless bystanders
-- Supersonic shrapnel, propelled outwards from deep within the explosion, basically coming from anything that was sturdy enough not to have been vapourised instantly
-- Very bright fireball, usually yellow-white instead of movie-orange, and formed by mostly [superheated air and vapourised material](https://www.atomicarchive.com/science/effects/fireball.html) rather than burning fuel. Said fireball rises, grows and cools over time. Its size grows literally explosively at first, then reaches its maximum size in seconds
+- Supersonic shrapnel, propelled outwards from deep within the explosion, basically coming from anything that was sturdy enough not to have been vaporised instantly
+- Very bright fireball, usually yellow-white instead of movie-orange, and formed by mostly [superheated air and vaporised material](https://www.atomicarchive.com/science/effects/fireball.html) rather than burning fuel. Said fireball rises, grows and cools over time. Its size grows literally explosively at first, then reaches its maximum size in seconds
 - Fading, darkening fireball, slowly over time. The lingering smoke can last quite a long time compared to everything before
 
 # Movie Magic
@@ -40,7 +40,7 @@ Explosions in movies are different to real life for one main reason: they need t
 
 > ![Generic VFX explosion](https://img.itch.zone/aW1hZ2UvMzE2MDY4NC8xODg3NTY1My5qcGc=/original/bgK5nm.jpg)
 >
-> https://vefects.itch.io/realistic-explosions-unreal-engine
+> <https://vefects.itch.io/realistic-explosions-unreal-engine>
 
 In VFX and video games, artists have more control so these secondary effects can be easily added and tweaked, but the general principle is the same: it's gotta last, and have lots of different components for interest.
 
@@ -55,10 +55,9 @@ Let's play with the following elements, in rough order of appearance:
 5. Smoke
 6. Slow debris
 
-
 ![Flash](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/cdogs_explosion_flash.gif)
 
-First the flash. It looks like it lingers for too long but don't worry, it'll be covered by the other layers. In game it also deals the most damage - be unlucky enough to be at the centre of the explosion and you'll be instantly vapourised!
+First the flash. It looks like it lingers for too long but don't worry, it'll be covered by the other layers. In game it also deals the most damage - be unlucky enough to be at the centre of the explosion and you'll be instantly vaporised!
 
 ![Shockwave](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/cdogs_explosion_shockwave.gif)
 
@@ -78,7 +77,7 @@ Smoke, which arrives shortly before the fireballs dissipate but linger much long
 
 ![Debris](https://raw.githubusercontent.com/cxong/cxong.github.io/master/_posts/cdogs_explosion_debris.gif)
 
-Lastly we have slow-moving, high-flying debris that leave dramatic smoke trails, which add visual interest and prevents the explosion looking like just a blob. You could say that these represent large particles that the explosion couldn't fully vapourise, but let's be honest: we added these just to look cool.
+Lastly we have slow-moving, high-flying debris that leave dramatic smoke trails, which add visual interest and prevents the explosion looking like just a blob. You could say that these represent large particles that the explosion couldn't fully vaporise, but let's be honest: we added these just to look cool.
 
 And there you have it! A six-part dynamic explosion. How does it compare with the original C-Dogs explosion? I hope you found this exercise useful. Now go forth and make some cool explosions of your own!
 
